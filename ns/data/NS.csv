@@ -1,654 +1,654 @@
 id,value
-Nervous System,A08
-Nervous System.Central Nervous System,A08.186
-Nervous System.Central Nervous System.Brain,A08.186.211
-Nervous System.Central Nervous System.Brain.Blood-Brain Barrier,A08.186.211.035
-Nervous System.Central Nervous System.Brain.Brain Stem,A08.186.211.132
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon,A08.186.211.132.659
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle,A08.186.211.132.659.413
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Cerebral Crus,A08.186.211.132.659.413.437
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Substantia Nigra,A08.186.211.132.659.413.656
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Substantia Nigra.Pars Compacta,A08.186.211.132.659.413.656.249
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Substantia Nigra.Pars Reticulata,A08.186.211.132.659.413.656.500
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali,A08.186.211.132.659.413.875
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Cerebral Aqueduct,A08.186.211.132.659.413.875.187
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Midbrain Reticular Formation,A08.186.211.132.659.413.875.284
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Midbrain Reticular Formation.Pedunculopontine Tegmental Nucleus,A08.186.211.132.659.413.875.284.500
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Oculomotor Nuclear Complex,A08.186.211.132.659.413.875.381
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Oculomotor Nuclear Complex.Edinger-Westphal Nucleus,A08.186.211.132.659.413.875.381.500
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Periaqueductal Gray,A08.186.211.132.659.413.875.595
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Raphe Nuclei,A08.186.211.132.659.413.875.618
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Raphe Nuclei.Dorsal Raphe Nucleus,A08.186.211.132.659.413.875.618.249
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Raphe Nuclei.Interpeduncular Nucleus,A08.186.211.132.659.413.875.618.436
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Raphe Nuclei.Midbrain Raphe Nuclei,A08.186.211.132.659.413.875.618.624
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Red Nucleus,A08.186.211.132.659.413.875.642
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Ventral Tegmental Area,A08.186.211.132.659.413.875.820
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Locus Coeruleus,A08.186.211.132.659.473
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali,A08.186.211.132.659.800
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali.Inferior Colliculi,A08.186.211.132.659.800.407
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali.Posterior Cerebellar Commissure,A08.186.211.132.659.800.611
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali.Pretectal Region,A08.186.211.132.659.800.662
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali.Subcommissural Organ,A08.186.211.132.659.800.713
-Nervous System.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali.Superior Colliculi,A08.186.211.132.659.800.816
-Nervous System.Central Nervous System.Brain.Brain Stem.Reticular Formation,A08.186.211.132.772
-Nervous System.Central Nervous System.Brain.Brain Stem.Reticular Formation.Midbrain Reticular Formation,A08.186.211.132.772.322
-Nervous System.Central Nervous System.Brain.Brain Stem.Reticular Formation.Midbrain Reticular Formation.Pedunculopontine Tegmental Nucleus,A08.186.211.132.772.322.500
-Nervous System.Central Nervous System.Brain.Brain Stem.Reticular Formation.Respiratory Center,A08.186.211.132.772.646
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon,A08.186.211.132.810
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon,A08.186.211.132.810.428
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum,A08.186.211.132.810.428.200
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellar Cortex,A08.186.211.132.810.428.200.212
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellar Cortex.Cerebellar Golgi Cells,A08.186.211.132.810.428.200.212.150
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellar Cortex.Cerebellar Vermis,A08.186.211.132.810.428.200.212.299
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellar Cortex.Purkinje Cells,A08.186.211.132.810.428.200.212.600
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellar Nuclei,A08.186.211.132.810.428.200.337
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellopontine Angle,A08.186.211.132.810.428.200.462
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons,A08.186.211.132.810.428.600
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Barrington's Nucleus,A08.186.211.132.810.428.600.067
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Cochlear Nucleus,A08.186.211.132.810.428.600.135
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Kolliker-Fuse Nucleus,A08.186.211.132.810.428.600.392
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Middle Cerebellar Peduncle,A08.186.211.132.810.428.600.521
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum,A08.186.211.132.810.428.600.650
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Abducens Nucleus,A08.186.211.132.810.428.600.650.249
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Facial Nucleus,A08.186.211.132.810.428.600.650.374
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Locus Coeruleus,A08.186.211.132.810.428.600.650.437
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Parabrachial Nucleus,A08.186.211.132.810.428.600.650.500
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Raphe Nuclei,A08.186.211.132.810.428.600.650.562
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Raphe Nuclei.Nucleus Raphe Magnus,A08.186.211.132.810.428.600.650.562.500
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Superior Olivary Complex,A08.186.211.132.810.428.600.650.625
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Trapezoid Body,A08.186.211.132.810.428.600.650.687
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Trigeminal Motor Nucleus,A08.186.211.132.810.428.600.650.718
-"Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Trigeminal Nucleus, Spinal",A08.186.211.132.810.428.600.650.750
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Vestibular Nuclei,A08.186.211.132.810.428.600.800
-"Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Vestibular Nuclei.Vestibular Nucleus, Lateral",A08.186.211.132.810.428.600.800.800
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon,A08.186.211.132.810.591
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata,A08.186.211.132.810.591.500
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Area Postrema,A08.186.211.132.810.591.500.286
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Olivary Nucleus,A08.186.211.132.810.591.500.574
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Raphe Nuclei,A08.186.211.132.810.591.500.662
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Raphe Nuclei.Nucleus Raphe Obscurus,A08.186.211.132.810.591.500.662.436
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Raphe Nuclei.Nucleus Raphe Pallidus,A08.186.211.132.810.591.500.662.624
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Solitary Nucleus,A08.186.211.132.810.591.500.750
-"Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Trigeminal Nucleus, Spinal",A08.186.211.132.810.591.500.875
-"Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Trigeminal Nucleus, Spinal.Trigeminal Caudal Nucleus",A08.186.211.132.810.591.500.875.500
-Nervous System.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Tectospinal Fibers,A08.186.211.132.810.753
-Nervous System.Central Nervous System.Brain.Brain Stem.Trigeminal Nuclei,A08.186.211.132.931
-Nervous System.Central Nervous System.Brain.Brain Stem.Trigeminal Nuclei.Trigeminal Motor Nucleus,A08.186.211.132.931.459
-"Nervous System.Central Nervous System.Brain.Brain Stem.Trigeminal Nuclei.Trigeminal Nucleus, Spinal",A08.186.211.132.931.920
-"Nervous System.Central Nervous System.Brain.Brain Stem.Trigeminal Nuclei.Trigeminal Nucleus, Spinal.Trigeminal Caudal Nucleus",A08.186.211.132.931.920.927
-Nervous System.Central Nervous System.Brain.Cerebral Ventricles,A08.186.211.140
-Nervous System.Central Nervous System.Brain.Cerebral Ventricles.Cerebral Aqueduct,A08.186.211.140.187
-Nervous System.Central Nervous System.Brain.Cerebral Ventricles.Choroid Plexus,A08.186.211.140.298
-Nervous System.Central Nervous System.Brain.Cerebral Ventricles.Ependyma,A08.186.211.140.460
-Nervous System.Central Nervous System.Brain.Cerebral Ventricles.Fourth Ventricle,A08.186.211.140.500
-Nervous System.Central Nervous System.Brain.Cerebral Ventricles.Lateral Ventricles,A08.186.211.140.650
-Nervous System.Central Nervous System.Brain.Cerebral Ventricles.Septum Pellucidum,A08.186.211.140.814
-Nervous System.Central Nervous System.Brain.Cerebral Ventricles.Third Ventricle,A08.186.211.140.840
-Nervous System.Central Nervous System.Brain.Glymphatic System,A08.186.211.150
-Nervous System.Central Nervous System.Brain.Gray Matter,A08.186.211.168
-Nervous System.Central Nervous System.Brain.Limbic System,A08.186.211.180
-Nervous System.Central Nervous System.Brain.Limbic System.Amygdala,A08.186.211.180.090
-Nervous System.Central Nervous System.Brain.Limbic System.Amygdala.Basolateral Nuclear Complex,A08.186.211.180.090.500
-Nervous System.Central Nervous System.Brain.Limbic System.Amygdala.Central Amygdaloid Nucleus,A08.186.211.180.090.750
-Nervous System.Central Nervous System.Brain.Limbic System.Amygdala.Corticomedial Nuclear Complex,A08.186.211.180.090.875
-Nervous System.Central Nervous System.Brain.Limbic System.Amygdala.Corticomedial Nuclear Complex.Periamygdaloid Cortex,A08.186.211.180.090.875.500
-Nervous System.Central Nervous System.Brain.Limbic System.Epithalamus,A08.186.211.180.200
-Nervous System.Central Nervous System.Brain.Limbic System.Epithalamus.Habenula,A08.186.211.180.200.360
-Nervous System.Central Nervous System.Brain.Limbic System.Epithalamus.Pineal Gland,A08.186.211.180.200.680
-Nervous System.Central Nervous System.Brain.Limbic System.Hippocampus,A08.186.211.180.405
-"Nervous System.Central Nervous System.Brain.Limbic System.Hippocampus.CA1 Region, Hippocampal",A08.186.211.180.405.099
-"Nervous System.Central Nervous System.Brain.Limbic System.Hippocampus.CA2 Region, Hippocampal",A08.186.211.180.405.149
-"Nervous System.Central Nervous System.Brain.Limbic System.Hippocampus.CA3 Region, Hippocampal",A08.186.211.180.405.174
-Nervous System.Central Nervous System.Brain.Limbic System.Hippocampus.Dentate Gyrus,A08.186.211.180.405.200
-"Nervous System.Central Nervous System.Brain.Limbic System.Hippocampus.Dentate Gyrus.Mossy Fibers, Hippocampal",A08.186.211.180.405.200.500
-"Nervous System.Central Nervous System.Brain.Limbic System.Hippocampus.Fornix, Brain",A08.186.211.180.405.600
-Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus,A08.186.211.180.497
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamic Area, Lateral",A08.186.211.180.497.300
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior",A08.186.211.180.497.342
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Anterior Hypothalamic Nucleus",A08.186.211.180.497.342.063
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Organum Vasculosum",A08.186.211.180.497.342.231
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Paraventricular Hypothalamic Nucleus",A08.186.211.180.497.342.400
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Preoptic Area",A08.186.211.180.497.342.450
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Suprachiasmatic Nucleus",A08.186.211.180.497.342.625
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Suprachiasmatic Nucleus.Suprachiasmatic Nucleus Neurons",A08.186.211.180.497.342.625.500
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Supraoptic Nucleus",A08.186.211.180.497.342.650
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle",A08.186.211.180.497.352
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Arcuate Nucleus of Hypothalamus",A08.186.211.180.497.352.081
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Dorsomedial Hypothalamic Nucleus",A08.186.211.180.497.352.270
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System",A08.186.211.180.497.352.435
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Median Eminence",A08.186.211.180.497.352.435.249
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland",A08.186.211.180.497.352.435.500
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior",A08.186.211.180.497.352.435.500.500
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Corticotrophs",A08.186.211.180.497.352.435.500.500.500
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Gonadotrophs",A08.186.211.180.497.352.435.500.500.750
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Lactotrophs",A08.186.211.180.497.352.435.500.500.812
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Somatotrophs",A08.186.211.180.497.352.435.500.500.937
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Thyrotrophs",A08.186.211.180.497.352.435.500.500.968
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate",A08.186.211.180.497.352.435.500.750
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate.Melanotrophs",A08.186.211.180.497.352.435.500.750.500
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Posterior",A08.186.211.180.497.352.435.500.875
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Tuber Cinereum",A08.186.211.180.497.352.870
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Ventromedial Hypothalamic Nucleus",A08.186.211.180.497.352.953
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Posterior",A08.186.211.180.497.362
-"Nervous System.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Posterior.Mammillary Bodies",A08.186.211.180.497.362.500
-Nervous System.Central Nervous System.Brain.Limbic System.Limbic Lobe,A08.186.211.180.590
-Nervous System.Central Nervous System.Brain.Limbic System.Limbic Lobe.Gyrus Cinguli,A08.186.211.180.590.500
-Nervous System.Central Nervous System.Brain.Limbic System.Limbic Lobe.Parahippocampal Gyrus,A08.186.211.180.590.750
-Nervous System.Central Nervous System.Brain.Limbic System.Limbic Lobe.Parahippocampal Gyrus.Entorhinal Cortex,A08.186.211.180.590.750.225
-Nervous System.Central Nervous System.Brain.Limbic System.Limbic Lobe.Parahippocampal Gyrus.Periamygdaloid Cortex,A08.186.211.180.590.750.612
-Nervous System.Central Nervous System.Brain.Limbic System.Olfactory Pathways,A08.186.211.180.699
-Nervous System.Central Nervous System.Brain.Limbic System.Parahippocampal Gyrus,A08.186.211.180.710
-Nervous System.Central Nervous System.Brain.Limbic System.Parahippocampal Gyrus.Entorhinal Cortex,A08.186.211.180.710.225
-Nervous System.Central Nervous System.Brain.Limbic System.Parahippocampal Gyrus.Periamygdaloid Cortex,A08.186.211.180.710.612
-Nervous System.Central Nervous System.Brain.Limbic System.Perforant Pathway,A08.186.211.180.730
-Nervous System.Central Nervous System.Brain.Limbic System.Septum of Brain,A08.186.211.180.750
-Nervous System.Central Nervous System.Brain.Limbic System.Septum of Brain.Septal Nuclei,A08.186.211.180.750.800
-Nervous System.Central Nervous System.Brain.Limbic System.Septum of Brain.Septum Pellucidum,A08.186.211.180.750.900
-Nervous System.Central Nervous System.Brain.Limbic System.Substantia Innominata,A08.186.211.180.820
-Nervous System.Central Nervous System.Brain.Prosencephalon,A08.186.211.200
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon,A08.186.211.200.317
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Epithalamus,A08.186.211.200.317.200
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Epithalamus.Habenula,A08.186.211.200.317.200.360
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Epithalamus.Pineal Gland,A08.186.211.200.317.200.620
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus,A08.186.211.200.317.357
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamic Area, Lateral",A08.186.211.200.317.357.300
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior",A08.186.211.200.317.357.342
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Anterior Hypothalamic Nucleus",A08.186.211.200.317.357.342.063
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Organum Vasculosum",A08.186.211.200.317.357.342.315
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Paraventricular Hypothalamic Nucleus",A08.186.211.200.317.357.342.400
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Preoptic Area",A08.186.211.200.317.357.342.450
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Suprachiasmatic Nucleus",A08.186.211.200.317.357.342.625
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Suprachiasmatic Nucleus.Suprachiasmatic Nucleus Neurons",A08.186.211.200.317.357.342.625.500
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Supraoptic Nucleus",A08.186.211.200.317.357.342.650
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle",A08.186.211.200.317.357.352
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Arcuate Nucleus of Hypothalamus",A08.186.211.200.317.357.352.081
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Dorsomedial Hypothalamic Nucleus",A08.186.211.200.317.357.352.270
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System",A08.186.211.200.317.357.352.435
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Median Eminence",A08.186.211.200.317.357.352.435.249
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland",A08.186.211.200.317.357.352.435.500
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior",A08.186.211.200.317.357.352.435.500.500
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Corticotrophs",A08.186.211.200.317.357.352.435.500.500.500
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Gonadotrophs",A08.186.211.200.317.357.352.435.500.500.750
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Lactotrophs",A08.186.211.200.317.357.352.435.500.500.812
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Somatotrophs",A08.186.211.200.317.357.352.435.500.500.937
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Thyrotrophs",A08.186.211.200.317.357.352.435.500.500.968
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate",A08.186.211.200.317.357.352.435.500.750
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate.Melanotrophs",A08.186.211.200.317.357.352.435.500.750.500
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Posterior",A08.186.211.200.317.357.352.435.500.875
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Tuber Cinereum",A08.186.211.200.317.357.352.870
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Ventromedial Hypothalamic Nucleus",A08.186.211.200.317.357.352.953
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Posterior",A08.186.211.200.317.357.362
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Posterior.Mammillary Bodies",A08.186.211.200.317.357.362.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Optic Chiasm,A08.186.211.200.317.578
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Optic Tract,A08.186.211.200.317.689
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Subthalamus,A08.186.211.200.317.800
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Subthalamus.Entopeduncular Nucleus,A08.186.211.200.317.800.240
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Subthalamus.Subthalamic Nucleus,A08.186.211.200.317.800.800
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Subthalamus.Zona Incerta,A08.186.211.200.317.800.900
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus,A08.186.211.200.317.826
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei,A08.186.211.200.317.826.701
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Anterior Thalamic Nuclei,A08.186.211.200.317.826.701.080
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Geniculate Bodies,A08.186.211.200.317.826.701.444
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Intralaminar Thalamic Nuclei,A08.186.211.200.317.826.701.460
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Lateral Thalamic Nuclei,A08.186.211.200.317.826.701.485
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Lateral Thalamic Nuclei.Pulvinar,A08.186.211.200.317.826.701.485.600
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Mediodorsal Thalamic Nucleus,A08.186.211.200.317.826.701.490
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Midline Thalamic Nuclei,A08.186.211.200.317.826.701.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Posterior Thalamic Nuclei,A08.186.211.200.317.826.701.700
-Nervous System.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Ventral Thalamic Nuclei,A08.186.211.200.317.826.701.900
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon,A08.186.211.200.885
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum,A08.186.211.200.885.287
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia,A08.186.211.200.885.287.249
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Amygdala,A08.186.211.200.885.287.249.152
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Amygdala.Basolateral Nuclear Complex,A08.186.211.200.885.287.249.152.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Amygdala.Central Amygdaloid Nucleus,A08.186.211.200.885.287.249.152.750
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Amygdala.Corticomedial Nuclear Complex,A08.186.211.200.885.287.249.152.875
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Amygdala.Corticomedial Nuclear Complex.Periamygdaloid Cortex,A08.186.211.200.885.287.249.152.875.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Claustrum,A08.186.211.200.885.287.249.320
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum,A08.186.211.200.885.287.249.487
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Globus Pallidus,A08.186.211.200.885.287.249.487.397
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Neostriatum,A08.186.211.200.885.287.249.487.550
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Neostriatum.Caudate Nucleus,A08.186.211.200.885.287.249.487.550.184
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Neostriatum.High Vocal Center,A08.186.211.200.885.287.249.487.550.484
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Neostriatum.Putamen,A08.186.211.200.885.287.249.487.550.784
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Ventral Striatum,A08.186.211.200.885.287.249.487.775
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Ventral Striatum.Nucleus Accumbens,A08.186.211.200.885.287.249.487.775.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Ventral Striatum.Olfactory Tubercle,A08.186.211.200.885.287.249.487.775.750
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Ventral Striatum.Olfactory Tubercle.Islands of Calleja,A08.186.211.200.885.287.249.487.775.750.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Substantia Innominata,A08.186.211.200.885.287.249.880
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Substantia Innominata.Basal Nucleus of Meynert,A08.186.211.200.885.287.249.880.100
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex,A08.186.211.200.885.287.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Frontal Lobe,A08.186.211.200.885.287.500.270
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Frontal Lobe.Motor Cortex,A08.186.211.200.885.287.500.270.548
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Frontal Lobe.Prefrontal Cortex,A08.186.211.200.885.287.500.270.700
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Frontal Lobe.Prefrontal Cortex.Broca Area,A08.186.211.200.885.287.500.270.700.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Frontal Lobe.Uncinate Fasciculus,A08.186.211.200.885.287.500.270.850
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus,A08.186.211.200.885.287.500.345
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.CA1 Region, Hippocampal",A08.186.211.200.885.287.500.345.099
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.CA2 Region, Hippocampal",A08.186.211.200.885.287.500.345.149
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.CA3 Region, Hippocampal",A08.186.211.200.885.287.500.345.174
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.Dentate Gyrus,A08.186.211.200.885.287.500.345.200
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.Dentate Gyrus.Mossy Fibers, Hippocampal",A08.186.211.200.885.287.500.345.200.500
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.Fornix, Brain",A08.186.211.200.885.287.500.345.600
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Limbic Lobe,A08.186.211.200.885.287.500.382
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Limbic Lobe.Gyrus Cinguli,A08.186.211.200.885.287.500.382.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Limbic Lobe.Parahippocampal Gyrus,A08.186.211.200.885.287.500.382.750
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Limbic Lobe.Parahippocampal Gyrus.Entorhinal Cortex,A08.186.211.200.885.287.500.382.750.225
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Limbic Lobe.Parahippocampal Gyrus.Periamygdaloid Cortex,A08.186.211.200.885.287.500.382.750.612
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Neocortex,A08.186.211.200.885.287.500.420
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Occipital Lobe,A08.186.211.200.885.287.500.571
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Occipital Lobe.Visual Cortex,A08.186.211.200.885.287.500.571.735
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex,A08.186.211.200.885.287.500.620
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Basal Forebrain,A08.186.211.200.885.287.500.620.374
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Basal Forebrain.Organum Vasculosum,A08.186.211.200.885.287.500.620.374.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Entorhinal Cortex,A08.186.211.200.885.287.500.620.562
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Olfactory Tubercle,A08.186.211.200.885.287.500.620.656
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Olfactory Tubercle.Islands of Calleja,A08.186.211.200.885.287.500.620.656.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Piriform Cortex,A08.186.211.200.885.287.500.620.750
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Parietal Lobe,A08.186.211.200.885.287.500.670
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Parietal Lobe.Somatosensory Cortex,A08.186.211.200.885.287.500.670.675
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Parietal Lobe.Wernicke Area,A08.186.211.200.885.287.500.670.837
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex,A08.186.211.200.885.287.500.814
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Auditory Cortex,A08.186.211.200.885.287.500.814.249
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Motor Cortex,A08.186.211.200.885.287.500.814.624
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Olfactory Cortex,A08.186.211.200.885.287.500.814.695
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Olfactory Cortex.Basal Forebrain,A08.186.211.200.885.287.500.814.695.249
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Olfactory Cortex.Entorhinal Cortex,A08.186.211.200.885.287.500.814.695.374
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Olfactory Cortex.Olfactory Tubercle,A08.186.211.200.885.287.500.814.695.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Olfactory Cortex.Olfactory Tubercle.Islands of Calleja,A08.186.211.200.885.287.500.814.695.500.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Somatosensory Cortex,A08.186.211.200.885.287.500.814.906
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Visual Cortex,A08.186.211.200.885.287.500.814.953
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Temporal Lobe,A08.186.211.200.885.287.500.863
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Temporal Lobe.Auditory Cortex,A08.186.211.200.885.287.500.863.297
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Temporal Lobe.Perirhinal Cortex,A08.186.211.200.885.287.500.863.574
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Temporal Lobe.Uncinate Fasciculus,A08.186.211.200.885.287.500.863.712
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Temporal Lobe.Wernicke Area,A08.186.211.200.885.287.500.863.850
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex,A08.186.211.200.885.287.750
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex.Basal Forebrain,A08.186.211.200.885.287.750.374
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex.Entorhinal Cortex,A08.186.211.200.885.287.750.562
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex.Olfactory Tubercle,A08.186.211.200.885.287.750.656
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex.Olfactory Tubercle.Islands of Calleja,A08.186.211.200.885.287.750.656.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex.Piriform Cortex,A08.186.211.200.885.287.750.750
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Diagonal Band of Broca,A08.186.211.200.885.380
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.External Capsule,A08.186.211.200.885.382
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Internal Capsule,A08.186.211.200.885.385
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Olfactory Bulb,A08.186.211.200.885.388
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Septum of Brain,A08.186.211.200.885.750
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Septum of Brain.Septal Nuclei,A08.186.211.200.885.750.800
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Septum of Brain.Septum Pellucidum,A08.186.211.200.885.750.814
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Telencephalic Commissures,A08.186.211.200.885.800
-"Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Telencephalic Commissures.Anterior Commissure, Brain",A08.186.211.200.885.800.500
-Nervous System.Central Nervous System.Brain.Prosencephalon.Telencephalon.Telencephalic Commissures.Corpus Callosum,A08.186.211.200.885.800.750
-Nervous System.Central Nervous System.Brain.White Matter,A08.186.211.204
-Nervous System.Central Nervous System.Meninges,A08.186.566
-Nervous System.Central Nervous System.Meninges.Arachnoid,A08.186.566.166
-Nervous System.Central Nervous System.Meninges.Arachnoid.Subarachnoid Space,A08.186.566.166.686
-Nervous System.Central Nervous System.Meninges.Arachnoid.Subarachnoid Space.Cisterna Magna,A08.186.566.166.686.351
-Nervous System.Central Nervous System.Meninges.Dura Mater,A08.186.566.395
-Nervous System.Central Nervous System.Meninges.Dura Mater.Subdural Space,A08.186.566.395.687
-Nervous System.Central Nervous System.Meninges.Pia Mater,A08.186.566.731
-Nervous System.Central Nervous System.Spinal Cord,A08.186.854
-Nervous System.Central Nervous System.Spinal Cord.Cervical Cord,A08.186.854.126
-Nervous System.Central Nervous System.Spinal Cord.Extrapyramidal Tracts,A08.186.854.253
-Nervous System.Central Nervous System.Spinal Cord.Pyramidal Tracts,A08.186.854.300
-Nervous System.Central Nervous System.Spinal Cord.Gray Matter,A08.186.854.348
-Nervous System.Central Nervous System.Spinal Cord.Spinal Cord Lateral Horn,A08.186.854.443
-Nervous System.Central Nervous System.Spinal Cord.Spinal Cord Dorsal Horn,A08.186.854.697
-Nervous System.Central Nervous System.Spinal Cord.Spinal Cord Dorsal Horn.Posterior Horn Cells,A08.186.854.697.500
-Nervous System.Central Nervous System.Spinal Cord.Spinal Cord Dorsal Horn.Posterior Horn Cells.Substantia Gelatinosa,A08.186.854.697.500.500
-Nervous System.Central Nervous System.Spinal Cord.Spinal Cord Ventral Horn,A08.186.854.729
-Nervous System.Central Nervous System.Spinal Cord.Spinal Cord Ventral Horn.Anterior Horn Cells,A08.186.854.729.500
-Nervous System.Central Nervous System.Spinal Cord.Spinothalamic Tracts,A08.186.854.761
-Nervous System.Central Nervous System.Spinal Cord.White Matter,A08.186.854.880
-Nervous System.Ganglia,A08.340
-"Nervous System.Ganglia.Ganglia, Autonomic",A08.340.315
-"Nervous System.Ganglia.Ganglia, Autonomic.Ganglia, Parasympathetic",A08.340.315.300
-"Nervous System.Ganglia.Ganglia, Autonomic.Ganglia, Sympathetic",A08.340.315.350
-"Nervous System.Ganglia.Ganglia, Autonomic.Ganglia, Sympathetic.Stellate Ganglion",A08.340.315.350.800
-"Nervous System.Ganglia.Ganglia, Autonomic.Ganglia, Sympathetic.Superior Cervical Ganglion",A08.340.315.350.850
-"Nervous System.Ganglia.Ganglia, Invertebrate",A08.340.352
-"Nervous System.Ganglia.Ganglia, Sensory",A08.340.390
-"Nervous System.Ganglia.Ganglia, Sensory.Ganglia, Spinal",A08.340.390.340
-"Nervous System.Ganglia.Ganglia, Sensory.Geniculate Ganglion",A08.340.390.380
-"Nervous System.Ganglia.Ganglia, Sensory.Nodose Ganglion",A08.340.390.550
-"Nervous System.Ganglia.Ganglia, Sensory.Spiral Ganglion",A08.340.390.800
-"Nervous System.Ganglia.Ganglia, Sensory.Trigeminal Ganglion",A08.340.390.850
-"Nervous System.Ganglia.Satellite Cells, Perineuronal",A08.340.685
-Nervous System.Nerve Net,A08.511
-Nervous System.Nerve Net.Central Pattern Generators,A08.511.500
-Nervous System.Neural Pathways,A08.612
-Nervous System.Neural Pathways.Afferent Pathways,A08.612.220
-Nervous System.Neural Pathways.Afferent Pathways.Auditory Pathways,A08.612.220.110
-Nervous System.Neural Pathways.Afferent Pathways.Olfactory Pathways,A08.612.220.640
-Nervous System.Neural Pathways.Afferent Pathways.Spinocerebellar Tracts,A08.612.220.725
-Nervous System.Neural Pathways.Afferent Pathways.Spinothalamic Tracts,A08.612.220.735
-Nervous System.Neural Pathways.Afferent Pathways.Visceral Afferents,A08.612.220.830
-Nervous System.Neural Pathways.Afferent Pathways.Visual Pathways,A08.612.220.860
-Nervous System.Neural Pathways.Default Mode Network,A08.612.300
-Nervous System.Neural Pathways.Efferent Pathways,A08.612.380
-Nervous System.Neural Pathways.Efferent Pathways.Extrapyramidal Tracts,A08.612.380.239
-Nervous System.Neural Pathways.Efferent Pathways.Pyramidal Tracts,A08.612.380.730
-Nervous System.Neural Pathways.Internal Capsule,A08.612.435
-Nervous System.Neural Pathways.Medial Forebrain Bundle,A08.612.492
-Nervous System.Neural Pathways.Perforant Pathway,A08.612.600
-Nervous System.Neuroglia,A08.637
-Nervous System.Neuroglia.Astrocytes,A08.637.200
-Nervous System.Neuroglia.Ependymoglial Cells,A08.637.300
-Nervous System.Neuroglia.Microglia,A08.637.400
-Nervous System.Neuroglia.Neuropil,A08.637.500
-Nervous System.Neuroglia.Neuropil.Neuropil Threads,A08.637.500.550
-Nervous System.Neuroglia.Oligodendrocyte Precursor Cells,A08.637.550
-Nervous System.Neuroglia.Oligodendroglia,A08.637.600
-Nervous System.Neuroglia.Oligodendroglia.Myelin Sheath,A08.637.600.500
-"Nervous System.Neuroglia.Satellite Cells, Perineuronal",A08.637.685
-Nervous System.Neuroglia.Schwann Cells,A08.637.800
-Nervous System.Neuroglia.Schwann Cells.Myelin Sheath,A08.637.800.500
-Nervous System.Neuroglia.Schwann Cells.Myelin Sheath.Neurilemma,A08.637.800.500.550
-Nervous System.Neuroglia.Schwann Cells.Myelin Sheath.Ranvier's Nodes,A08.637.800.500.700
-Nervous System.Neurons,A08.675
-Nervous System.Neurons.Adrenergic Neurons,A08.675.100
-Nervous System.Neurons.Adrenergic Neurons.Adrenergic Fibers,A08.675.100.500
-Nervous System.Neurons.Cholinergic Neurons,A08.675.127
-Nervous System.Neurons.Cholinergic Neurons.Cholinergic Fibers,A08.675.127.500
-"Nervous System.Neurons.Cholinergic Neurons.Cholinergic Fibers.Autonomic Fibers, Preganglionic",A08.675.127.500.060
-"Nervous System.Neurons.Cholinergic Neurons.Cholinergic Fibers.Parasympathetic Fibers, Postganglionic",A08.675.127.500.700
-Nervous System.Neurons.Dendrites,A08.675.256
-Nervous System.Neurons.Dendrites.Dendritic Spines,A08.675.256.200
-Nervous System.Neurons.Dendrites.Neurites,A08.675.256.500
-Nervous System.Neurons.Dopaminergic Neurons,A08.675.278
-Nervous System.Neurons.GABAergic Neurons,A08.675.289
-Nervous System.Neurons.Grid Cells,A08.675.324
-Nervous System.Neurons.Interneurons,A08.675.358
-Nervous System.Neurons.Interneurons.Amacrine Cells,A08.675.358.050
-Nervous System.Neurons.Interneurons.Cerebellar Golgi Cells,A08.675.358.200
-Nervous System.Neurons.Interneurons.Commissural Interneurons,A08.675.358.350
-Nervous System.Neurons.Interneurons.Renshaw Cells,A08.675.358.650
-Nervous System.Neurons.Interneurons.Retinal Bipolar Cells,A08.675.358.700
-Nervous System.Neurons.Mirror Neurons,A08.675.500
-Nervous System.Neurons.Nerve Fibers,A08.675.542
-Nervous System.Neurons.Nerve Fibers.Adrenergic Fibers,A08.675.542.075
-"Nervous System.Neurons.Nerve Fibers.Adrenergic Fibers.Sympathetic Fibers, Postganglionic",A08.675.542.075.800
-"Nervous System.Neurons.Nerve Fibers.Autonomic Fibers, Postganglionic",A08.675.542.100
-"Nervous System.Neurons.Nerve Fibers.Autonomic Fibers, Postganglionic.Parasympathetic Fibers, Postganglionic",A08.675.542.100.700
-"Nervous System.Neurons.Nerve Fibers.Autonomic Fibers, Postganglionic.Sympathetic Fibers, Postganglionic",A08.675.542.100.800
-Nervous System.Neurons.Nerve Fibers.Axons,A08.675.542.145
-Nervous System.Neurons.Nerve Fibers.Axons.Axon Initial Segment,A08.675.542.145.250
-Nervous System.Neurons.Nerve Fibers.Axons.Neurites,A08.675.542.145.500
-Nervous System.Neurons.Nerve Fibers.Axons.Presynaptic Terminals,A08.675.542.145.750
-"Nervous System.Neurons.Nerve Fibers.Axons.Presynaptic Terminals.Mossy Fibers, Hippocampal",A08.675.542.145.750.500
-Nervous System.Neurons.Nerve Fibers.Cholinergic Fibers,A08.675.542.234
-"Nervous System.Neurons.Nerve Fibers.Cholinergic Fibers.Autonomic Fibers, Preganglionic",A08.675.542.234.060
-"Nervous System.Neurons.Nerve Fibers.Cholinergic Fibers.Parasympathetic Fibers, Postganglionic",A08.675.542.234.700
-"Nervous System.Neurons.Nerve Fibers.Nerve Fibers, Myelinated",A08.675.542.512
-"Nervous System.Neurons.Nerve Fibers.Nerve Fibers, Myelinated.Myelin Sheath",A08.675.542.512.560
-"Nervous System.Neurons.Nerve Fibers.Nerve Fibers, Myelinated.Myelin Sheath.Neurilemma",A08.675.542.512.560.550
-"Nervous System.Neurons.Nerve Fibers.Nerve Fibers, Myelinated.Myelin Sheath.Ranvier's Nodes",A08.675.542.512.560.700
-"Nervous System.Neurons.Nerve Fibers.Nerve Fibers, Unmyelinated",A08.675.542.756
-Nervous System.Neurons.Neural Analyzers,A08.675.575
-Nervous System.Neurons.Neurofibrils,A08.675.609
-Nervous System.Neurons.Neurofibrils.Neurofibrillary Tangles,A08.675.609.520
-"Nervous System.Neurons.Neurons, Afferent",A08.675.650
-"Nervous System.Neurons.Neurons, Afferent.Hair Cells, Auditory",A08.675.650.250
-"Nervous System.Neurons.Neurons, Afferent.Hair Cells, Auditory.Hair Cells, Auditory, Inner",A08.675.650.250.250
-"Nervous System.Neurons.Neurons, Afferent.Hair Cells, Auditory.Hair Cells, Auditory, Outer",A08.675.650.250.315
-"Nervous System.Neurons.Neurons, Afferent.Hair Cells, Vestibular",A08.675.650.395
-"Nervous System.Neurons.Neurons, Afferent.Posterior Horn Cells",A08.675.650.675
-"Nervous System.Neurons.Neurons, Afferent.Posterior Horn Cells.Substantia Gelatinosa",A08.675.650.675.800
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons",A08.675.650.850
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Amacrine Cells",A08.675.650.850.500
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells",A08.675.650.850.625
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Invertebrate",A08.675.650.850.625.660
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate",A08.675.650.850.625.670
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Photoreceptor Connecting Cilium",A08.675.650.850.625.670.049
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Cone Photoreceptor Cells",A08.675.650.850.625.670.100
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Inner Segment",A08.675.650.850.625.670.237
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment",A08.675.650.850.625.670.375
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment.Rod Cell Outer Segment",A08.675.650.850.625.670.375.500
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells",A08.675.650.850.625.670.650
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells.Rod Cell Outer Segment",A08.675.650.850.625.670.650.650
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Retinal Bipolar Cells",A08.675.650.850.750
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Retinal Ganglion Cells",A08.675.650.850.875
-"Nervous System.Neurons.Neurons, Afferent.Retinal Neurons.Retinal Horizontal Cells",A08.675.650.850.937
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells",A08.675.650.915
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells",A08.675.650.915.500
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Neuroepithelial Cells",A08.675.650.915.500.530
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Neuroepithelial Cells.Neuroepithelial Bodies",A08.675.650.915.500.530.550
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Olfactory Receptor Neurons",A08.675.650.915.500.540
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin",A08.675.650.915.500.600
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Aortic Bodies",A08.675.650.915.500.600.050
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Carotid Body",A08.675.650.915.500.600.150
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Glomus Jugulare",A08.675.650.915.500.600.350
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Glomus Tympanicum",A08.675.650.915.500.600.360
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Taste Buds",A08.675.650.915.500.800
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors",A08.675.650.915.750
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Golgi-Mazzoni Corpuscles",A08.675.650.915.750.300
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Merkel Cells",A08.675.650.915.750.425
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Muscle Spindles",A08.675.650.915.750.500
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells",A08.675.650.915.750.600
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory",A08.675.650.915.750.600.350
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory.Hair Cells, Auditory, Inner",A08.675.650.915.750.600.350.350
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory.Hair Cells, Auditory, Outer",A08.675.650.915.750.600.350.365
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Vestibular",A08.675.650.915.750.600.675
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Pacinian Corpuscles",A08.675.650.915.750.700
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Pressoreceptors",A08.675.650.915.750.750
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Pulmonary Stretch Receptors",A08.675.650.915.750.780
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Nociceptors",A08.675.650.915.875
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells",A08.675.650.915.937
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Invertebrate",A08.675.650.915.937.650
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate",A08.675.650.915.937.670
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Photoreceptor Connecting Cilium",A08.675.650.915.937.670.049
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Cone Photoreceptor Cells",A08.675.650.915.937.670.100
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Inner Segment",A08.675.650.915.937.670.237
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment",A08.675.650.915.937.670.375
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment.Rod Cell Outer Segment",A08.675.650.915.937.670.375.500
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells",A08.675.650.915.937.670.650
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells.Rod Cell Outer Segment",A08.675.650.915.937.670.650.650
-"Nervous System.Neurons.Neurons, Afferent.Sensory Receptor Cells.Thermoreceptors",A08.675.650.915.968
-"Nervous System.Neurons.Neurons, Efferent",A08.675.655
-"Nervous System.Neurons.Neurons, Efferent.Motor Neurons",A08.675.655.500
-"Nervous System.Neurons.Neurons, Efferent.Motor Neurons.Anterior Horn Cells",A08.675.655.500.050
-"Nervous System.Neurons.Neurons, Efferent.Motor Neurons.Motor Neurons, Gamma",A08.675.655.500.525
-Nervous System.Neurons.Neuropil,A08.675.703
-Nervous System.Neurons.Neuropil.Neuropil Threads,A08.675.703.550
-Nervous System.Neurons.Nissl Bodies,A08.675.712
-Nervous System.Neurons.Nitrergic Neurons,A08.675.748
-Nervous System.Neurons.Purkinje Cells,A08.675.784
-Nervous System.Neurons.Pyramidal Cells,A08.675.790
-Nervous System.Neurons.Pyramidal Cells.Place Cells,A08.675.790.500
-Nervous System.Neurons.Serotonergic Neurons,A08.675.895
-Nervous System.Neurons.Suprachiasmatic Nucleus Neurons,A08.675.947
-Nervous System.Neurosecretory Systems,A08.713
-Nervous System.Neurosecretory Systems.Circumventricular Organs,A08.713.049
-Nervous System.Neurosecretory Systems.Circumventricular Organs.Area Postrema,A08.713.049.500
-Nervous System.Neurosecretory Systems.Circumventricular Organs.Median Eminence,A08.713.049.750
-"Nervous System.Neurosecretory Systems.Circumventricular Organs.Pituitary Gland, Posterior",A08.713.049.875
-Nervous System.Neurosecretory Systems.Circumventricular Organs.Subcommissural Organ,A08.713.049.937
-Nervous System.Neurosecretory Systems.Circumventricular Organs.Subfornical Organ,A08.713.049.968
-Nervous System.Neurosecretory Systems.Corpora Allata,A08.713.100
-Nervous System.Neurosecretory Systems.Glomus Tympanicum,A08.713.228
-Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System,A08.713.357
-Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Median Eminence,A08.713.357.500
-Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland,A08.713.357.750
-"Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior",A08.713.357.750.500
-"Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Corticotrophs",A08.713.357.750.500.500
-"Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Gonadotrophs",A08.713.357.750.500.750
-"Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Lactotrophs",A08.713.357.750.500.812
-"Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Somatotrophs",A08.713.357.750.500.937
-"Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Thyrotrophs",A08.713.357.750.500.968
-"Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate",A08.713.357.750.750
-"Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate.Melanotrophs",A08.713.357.750.750.500
-"Nervous System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Posterior",A08.713.357.750.875
-Nervous System.Neurosecretory Systems.Pineal Gland,A08.713.733
-Nervous System.Neurosecretory Systems.Sympathoadrenal System,A08.713.866
-Nervous System.Peripheral Nervous System,A08.800
-Nervous System.Peripheral Nervous System.Autonomic Nervous System,A08.800.050
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways,A08.800.050.050
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Autonomic Fibers, Postganglionic",A08.800.050.050.050
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Autonomic Fibers, Postganglionic.Parasympathetic Fibers, Postganglionic",A08.800.050.050.050.700
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Autonomic Fibers, Postganglionic.Sympathetic Fibers, Postganglionic",A08.800.050.050.050.800
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Autonomic Fibers, Preganglionic",A08.800.050.050.060
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Celiac Plexus,A08.800.050.050.150
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Facial Nerve,A08.800.050.050.275
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Glossopharyngeal Nerve,A08.800.050.050.337
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Hypogastric Plexus,A08.800.050.050.400
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Myenteric Plexus,A08.800.050.050.500
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Oculomotor Nerve,A08.800.050.050.650
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Splanchnic Nerves,A08.800.050.050.800
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Submucous Plexus,A08.800.050.050.850
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Vagus Nerve,A08.800.050.050.925
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Vagus Nerve.Laryngeal Nerves,A08.800.050.050.925.450
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Vagus Nerve.Laryngeal Nerves.Recurrent Laryngeal Nerve,A08.800.050.050.925.450.700
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Vagus Nerve.Nodose Ganglion,A08.800.050.050.925.550
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Enteric Nervous System,A08.800.050.150
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Enteric Nervous System.Myenteric Plexus,A08.800.050.150.500
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Enteric Nervous System.Submucous Plexus,A08.800.050.150.750
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Ganglia, Autonomic",A08.800.050.300
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Ganglia, Autonomic.Ganglia, Parasympathetic",A08.800.050.300.250
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Ganglia, Autonomic.Ganglia, Sympathetic",A08.800.050.300.300
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Ganglia, Autonomic.Ganglia, Sympathetic.Stellate Ganglion",A08.800.050.300.300.800
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Ganglia, Autonomic.Ganglia, Sympathetic.Superior Cervical Ganglion",A08.800.050.300.300.850
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System,A08.800.050.600
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Facial Nerve,A08.800.050.600.149
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Ganglia, Parasympathetic",A08.800.050.600.300
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Glossopharyngeal Nerve,A08.800.050.600.387
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Oculomotor Nerve,A08.800.050.600.475
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Parasympathetic Fibers, Postganglionic",A08.800.050.600.650
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Vagus Nerve,A08.800.050.600.825
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Vagus Nerve.Laryngeal Nerves,A08.800.050.600.825.450
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Vagus Nerve.Laryngeal Nerves.Recurrent Laryngeal Nerve,A08.800.050.600.825.450.700
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Vagus Nerve.Nodose Ganglion,A08.800.050.600.825.550
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System,A08.800.050.800
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Ganglia, Sympathetic",A08.800.050.800.300
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Ganglia, Sympathetic.Stellate Ganglion",A08.800.050.800.300.800
-"Nervous System.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Ganglia, Sympathetic.Superior Cervical Ganglion",A08.800.050.800.300.850
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Splanchnic Nerves,A08.800.050.800.800
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Sympathoadrenal System,A08.800.050.800.850
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Vasomotor System,A08.800.050.800.900
-Nervous System.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Vasomotor System.Pressoreceptors,A08.800.050.800.900.700
-"Nervous System.Peripheral Nervous System.Ganglia, Sensory",A08.800.350
-"Nervous System.Peripheral Nervous System.Ganglia, Sensory.Ganglia, Spinal",A08.800.350.340
-"Nervous System.Peripheral Nervous System.Ganglia, Sensory.Geniculate Ganglion",A08.800.350.380
-"Nervous System.Peripheral Nervous System.Ganglia, Sensory.Nodose Ganglion",A08.800.350.550
-"Nervous System.Peripheral Nervous System.Ganglia, Sensory.Spiral Ganglion",A08.800.350.800
-"Nervous System.Peripheral Nervous System.Ganglia, Sensory.Trigeminal Ganglion",A08.800.350.850
-Nervous System.Peripheral Nervous System.Nerve Endings,A08.800.550
-Nervous System.Peripheral Nervous System.Nerve Endings.Neuroeffector Junction,A08.800.550.550
-Nervous System.Peripheral Nervous System.Nerve Endings.Neuroeffector Junction.Neuromuscular Junction,A08.800.550.550.550
-Nervous System.Peripheral Nervous System.Nerve Endings.Neuroeffector Junction.Neuromuscular Junction.Motor Endplate,A08.800.550.550.550.500
-Nervous System.Peripheral Nervous System.Peripheral Nerves,A08.800.800
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways,A08.800.800.060
-"Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Autonomic Fibers, Postganglionic",A08.800.800.060.050
-"Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Autonomic Fibers, Postganglionic.Parasympathetic Fibers, Postganglionic",A08.800.800.060.050.700
-"Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Autonomic Fibers, Postganglionic.Sympathetic Fibers, Postganglionic",A08.800.800.060.050.800
-"Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Autonomic Fibers, Preganglionic",A08.800.800.060.060
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Celiac Plexus,A08.800.800.060.150
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Facial Nerve,A08.800.800.060.275
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Glossopharyngeal Nerve,A08.800.800.060.337
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Hypogastric Plexus,A08.800.800.060.400
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Myenteric Plexus,A08.800.800.060.500
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Oculomotor Nerve,A08.800.800.060.650
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Splanchnic Nerves,A08.800.800.060.800
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Submucous Plexus,A08.800.800.060.840
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Vagus Nerve,A08.800.800.060.920
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Vagus Nerve.Laryngeal Nerves,A08.800.800.060.920.450
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Vagus Nerve.Laryngeal Nerves.Recurrent Laryngeal Nerve,A08.800.800.060.920.450.700
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Vagus Nerve.Nodose Ganglion,A08.800.800.060.920.550
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Blood-Nerve Barrier,A08.800.800.090
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves,A08.800.800.120
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Abducens Nerve,A08.800.800.120.030
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Accessory Nerve,A08.800.800.120.060
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Facial Nerve,A08.800.800.120.250
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Facial Nerve.Chorda Tympani Nerve,A08.800.800.120.250.120
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Facial Nerve.Geniculate Ganglion,A08.800.800.120.250.280
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Glossopharyngeal Nerve,A08.800.800.120.290
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Hypoglossal Nerve,A08.800.800.120.330
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Oculomotor Nerve,A08.800.800.120.600
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Olfactory Nerve,A08.800.800.120.640
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Optic Nerve,A08.800.800.120.680
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Optic Nerve.Optic Chiasm,A08.800.800.120.680.600
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Optic Nerve.Optic Disk,A08.800.800.120.680.660
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve,A08.800.800.120.760
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve.Mandibular Nerve,A08.800.800.120.760.500
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve.Mandibular Nerve.Lingual Nerve,A08.800.800.120.760.500.450
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve.Maxillary Nerve,A08.800.800.120.760.550
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve.Ophthalmic Nerve,A08.800.800.120.760.650
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve.Trigeminal Ganglion,A08.800.800.120.760.825
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trochlear Nerve,A08.800.800.120.800
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vagus Nerve,A08.800.800.120.900
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vagus Nerve.Laryngeal Nerves,A08.800.800.120.900.450
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vagus Nerve.Laryngeal Nerves.Recurrent Laryngeal Nerve,A08.800.800.120.900.450.700
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vagus Nerve.Nodose Ganglion,A08.800.800.120.900.550
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vestibulocochlear Nerve,A08.800.800.120.910
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vestibulocochlear Nerve.Cochlear Nerve,A08.800.800.120.910.120
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vestibulocochlear Nerve.Cochlear Nerve.Spiral Ganglion,A08.800.800.120.910.120.800
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vestibulocochlear Nerve.Vestibular Nerve,A08.800.800.120.910.900
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Schwann Cells,A08.800.800.690
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Schwann Cells.Myelin Sheath,A08.800.800.690.500
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Schwann Cells.Myelin Sheath.Neurilemma,A08.800.800.690.500.550
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Schwann Cells.Myelin Sheath.Ranvier's Nodes,A08.800.800.690.500.700
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves,A08.800.800.720
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Brachial Plexus,A08.800.800.720.050
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Brachial Plexus.Median Nerve,A08.800.800.720.050.500
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Brachial Plexus.Musculocutaneous Nerve,A08.800.800.720.050.540
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Brachial Plexus.Radial Nerve,A08.800.800.720.050.700
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Brachial Plexus.Ulnar Nerve,A08.800.800.720.050.850
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Cervical Plexus,A08.800.800.720.150
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Cervical Plexus.Phrenic Nerve,A08.800.800.720.150.700
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus,A08.800.800.720.450
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Femoral Nerve,A08.800.800.720.450.250
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Obturator Nerve,A08.800.800.720.450.600
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Pudendal Nerve,A08.800.800.720.450.680
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Sciatic Nerve,A08.800.800.720.450.760
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Sciatic Nerve.Peroneal Nerve,A08.800.800.720.450.760.640
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Sciatic Nerve.Tibial Nerve,A08.800.800.720.450.760.820
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Sciatic Nerve.Tibial Nerve.Sural Nerve,A08.800.800.720.450.760.820.820
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Spinal Nerve Roots,A08.800.800.720.725
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Spinal Nerve Roots.Cauda Equina,A08.800.800.720.725.150
-"Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Spinal Nerve Roots.Ganglia, Spinal",A08.800.800.720.725.350
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Thoracic Nerves,A08.800.800.720.800
-Nervous System.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Thoracic Nerves.Intercostal Nerves,A08.800.800.720.800.350
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells,A08.800.950
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells,A08.800.950.500
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Neuroepithelial Cells,A08.800.950.500.530
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Neuroepithelial Cells.Neuroepithelial Bodies,A08.800.950.500.530.550
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Olfactory Receptor Neurons,A08.800.950.500.540
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin",A08.800.950.500.600
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Aortic Bodies",A08.800.950.500.600.050
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Carotid Body",A08.800.950.500.600.150
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Glomus Jugulare",A08.800.950.500.600.350
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Glomus Tympanicum",A08.800.950.500.600.360
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Taste Buds,A08.800.950.500.800
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors,A08.800.950.750
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Golgi-Mazzoni Corpuscles,A08.800.950.750.300
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Merkel Cells,A08.800.950.750.425
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Muscle Spindles,A08.800.950.750.500
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells,A08.800.950.750.600
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory",A08.800.950.750.600.350
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory.Hair Cells, Auditory, Inner",A08.800.950.750.600.350.350
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory.Hair Cells, Auditory, Outer",A08.800.950.750.600.350.365
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Vestibular",A08.800.950.750.600.675
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Pacinian Corpuscles,A08.800.950.750.700
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Pressoreceptors,A08.800.950.750.750
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Pulmonary Stretch Receptors,A08.800.950.750.780
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Nociceptors,A08.800.950.875
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells,A08.800.950.937
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Invertebrate",A08.800.950.937.650
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate",A08.800.950.937.670
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Photoreceptor Connecting Cilium",A08.800.950.937.670.049
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Cone Photoreceptor Cells",A08.800.950.937.670.100
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Inner Segment",A08.800.950.937.670.237
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment",A08.800.950.937.670.375
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment.Rod Cell Outer Segment",A08.800.950.937.670.375.500
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells",A08.800.950.937.670.650
-"Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells.Rod Cell Outer Segment",A08.800.950.937.670.650.650
-Nervous System.Peripheral Nervous System.Sensory Receptor Cells.Thermoreceptors,A08.800.950.968
-Nervous System.Synapses,A08.850
-Nervous System.Synapses.Electrical Synapses,A08.850.180
-Nervous System.Synapses.Neuroeffector Junction,A08.850.550
-Nervous System.Synapses.Neuroeffector Junction.Neuromuscular Junction,A08.850.550.550
-Nervous System.Synapses.Neuroeffector Junction.Neuromuscular Junction.Motor Endplate,A08.850.550.550.500
-Nervous System.Synapses.Presynaptic Terminals,A08.850.700
-"Nervous System.Synapses.Presynaptic Terminals.Mossy Fibers, Hippocampal",A08.850.700.500
-Nervous System.Synapses.Synaptic Membranes,A08.850.800
-Nervous System.Synapses.Synaptic Membranes.Post-Synaptic Density,A08.850.800.500
-Nervous System.Synapses.Synaptic Vesicles,A08.850.840
+NS,A08
+NS.Central Nervous System,A08.186
+NS.Central Nervous System.Brain,A08.186.211
+NS.Central Nervous System.Brain.Blood-Brain Barrier,A08.186.211.035
+NS.Central Nervous System.Brain.Brain Stem,A08.186.211.132
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon,A08.186.211.132.659
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle,A08.186.211.132.659.413
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Cerebral Crus,A08.186.211.132.659.413.437
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Substantia Nigra,A08.186.211.132.659.413.656
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Substantia Nigra.Pars Compacta,A08.186.211.132.659.413.656.249
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Substantia Nigra.Pars Reticulata,A08.186.211.132.659.413.656.500
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali,A08.186.211.132.659.413.875
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Cerebral Aqueduct,A08.186.211.132.659.413.875.187
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Midbrain Reticular Formation,A08.186.211.132.659.413.875.284
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Midbrain Reticular Formation.Pedunculopontine Tegmental Nucleus,A08.186.211.132.659.413.875.284.500
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Oculomotor Nuclear Complex,A08.186.211.132.659.413.875.381
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Oculomotor Nuclear Complex.Edinger-Westphal Nucleus,A08.186.211.132.659.413.875.381.500
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Periaqueductal Gray,A08.186.211.132.659.413.875.595
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Raphe Nuclei,A08.186.211.132.659.413.875.618
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Raphe Nuclei.Dorsal Raphe Nucleus,A08.186.211.132.659.413.875.618.249
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Raphe Nuclei.Interpeduncular Nucleus,A08.186.211.132.659.413.875.618.436
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Raphe Nuclei.Midbrain Raphe Nuclei,A08.186.211.132.659.413.875.618.624
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Red Nucleus,A08.186.211.132.659.413.875.642
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Cerebral Peduncle.Tegmentum Mesencephali.Ventral Tegmental Area,A08.186.211.132.659.413.875.820
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Locus Coeruleus,A08.186.211.132.659.473
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali,A08.186.211.132.659.800
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali.Inferior Colliculi,A08.186.211.132.659.800.407
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali.Posterior Cerebellar Commissure,A08.186.211.132.659.800.611
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali.Pretectal Region,A08.186.211.132.659.800.662
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali.Subcommissural Organ,A08.186.211.132.659.800.713
+NS.Central Nervous System.Brain.Brain Stem.Mesencephalon.Tectum Mesencephali.Superior Colliculi,A08.186.211.132.659.800.816
+NS.Central Nervous System.Brain.Brain Stem.Reticular Formation,A08.186.211.132.772
+NS.Central Nervous System.Brain.Brain Stem.Reticular Formation.Midbrain Reticular Formation,A08.186.211.132.772.322
+NS.Central Nervous System.Brain.Brain Stem.Reticular Formation.Midbrain Reticular Formation.Pedunculopontine Tegmental Nucleus,A08.186.211.132.772.322.500
+NS.Central Nervous System.Brain.Brain Stem.Reticular Formation.Respiratory Center,A08.186.211.132.772.646
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon,A08.186.211.132.810
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon,A08.186.211.132.810.428
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum,A08.186.211.132.810.428.200
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellar Cortex,A08.186.211.132.810.428.200.212
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellar Cortex.Cerebellar Golgi Cells,A08.186.211.132.810.428.200.212.150
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellar Cortex.Cerebellar Vermis,A08.186.211.132.810.428.200.212.299
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellar Cortex.Purkinje Cells,A08.186.211.132.810.428.200.212.600
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellar Nuclei,A08.186.211.132.810.428.200.337
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Cerebellum.Cerebellopontine Angle,A08.186.211.132.810.428.200.462
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons,A08.186.211.132.810.428.600
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Barrington's Nucleus,A08.186.211.132.810.428.600.067
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Cochlear Nucleus,A08.186.211.132.810.428.600.135
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Kolliker-Fuse Nucleus,A08.186.211.132.810.428.600.392
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Middle Cerebellar Peduncle,A08.186.211.132.810.428.600.521
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum,A08.186.211.132.810.428.600.650
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Abducens Nucleus,A08.186.211.132.810.428.600.650.249
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Facial Nucleus,A08.186.211.132.810.428.600.650.374
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Locus Coeruleus,A08.186.211.132.810.428.600.650.437
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Parabrachial Nucleus,A08.186.211.132.810.428.600.650.500
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Raphe Nuclei,A08.186.211.132.810.428.600.650.562
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Raphe Nuclei.Nucleus Raphe Magnus,A08.186.211.132.810.428.600.650.562.500
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Superior Olivary Complex,A08.186.211.132.810.428.600.650.625
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Trapezoid Body,A08.186.211.132.810.428.600.650.687
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Trigeminal Motor Nucleus,A08.186.211.132.810.428.600.650.718
+"NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Pontine Tegmentum.Trigeminal Nucleus, Spinal",A08.186.211.132.810.428.600.650.750
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Vestibular Nuclei,A08.186.211.132.810.428.600.800
+"NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Metencephalon.Pons.Vestibular Nuclei.Vestibular Nucleus, Lateral",A08.186.211.132.810.428.600.800.800
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon,A08.186.211.132.810.591
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata,A08.186.211.132.810.591.500
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Area Postrema,A08.186.211.132.810.591.500.286
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Olivary Nucleus,A08.186.211.132.810.591.500.574
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Raphe Nuclei,A08.186.211.132.810.591.500.662
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Raphe Nuclei.Nucleus Raphe Obscurus,A08.186.211.132.810.591.500.662.436
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Raphe Nuclei.Nucleus Raphe Pallidus,A08.186.211.132.810.591.500.662.624
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Solitary Nucleus,A08.186.211.132.810.591.500.750
+"NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Trigeminal Nucleus, Spinal",A08.186.211.132.810.591.500.875
+"NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Myelencephalon.Medulla Oblongata.Trigeminal Nucleus, Spinal.Trigeminal Caudal Nucleus",A08.186.211.132.810.591.500.875.500
+NS.Central Nervous System.Brain.Brain Stem.Rhombencephalon.Tectospinal Fibers,A08.186.211.132.810.753
+NS.Central Nervous System.Brain.Brain Stem.Trigeminal Nuclei,A08.186.211.132.931
+NS.Central Nervous System.Brain.Brain Stem.Trigeminal Nuclei.Trigeminal Motor Nucleus,A08.186.211.132.931.459
+"NS.Central Nervous System.Brain.Brain Stem.Trigeminal Nuclei.Trigeminal Nucleus, Spinal",A08.186.211.132.931.920
+"NS.Central Nervous System.Brain.Brain Stem.Trigeminal Nuclei.Trigeminal Nucleus, Spinal.Trigeminal Caudal Nucleus",A08.186.211.132.931.920.927
+NS.Central Nervous System.Brain.Cerebral Ventricles,A08.186.211.140
+NS.Central Nervous System.Brain.Cerebral Ventricles.Cerebral Aqueduct,A08.186.211.140.187
+NS.Central Nervous System.Brain.Cerebral Ventricles.Choroid Plexus,A08.186.211.140.298
+NS.Central Nervous System.Brain.Cerebral Ventricles.Ependyma,A08.186.211.140.460
+NS.Central Nervous System.Brain.Cerebral Ventricles.Fourth Ventricle,A08.186.211.140.500
+NS.Central Nervous System.Brain.Cerebral Ventricles.Lateral Ventricles,A08.186.211.140.650
+NS.Central Nervous System.Brain.Cerebral Ventricles.Septum Pellucidum,A08.186.211.140.814
+NS.Central Nervous System.Brain.Cerebral Ventricles.Third Ventricle,A08.186.211.140.840
+NS.Central Nervous System.Brain.Glymphatic System,A08.186.211.150
+NS.Central Nervous System.Brain.Gray Matter,A08.186.211.168
+NS.Central Nervous System.Brain.Limbic System,A08.186.211.180
+NS.Central Nervous System.Brain.Limbic System.Amygdala,A08.186.211.180.090
+NS.Central Nervous System.Brain.Limbic System.Amygdala.Basolateral Nuclear Complex,A08.186.211.180.090.500
+NS.Central Nervous System.Brain.Limbic System.Amygdala.Central Amygdaloid Nucleus,A08.186.211.180.090.750
+NS.Central Nervous System.Brain.Limbic System.Amygdala.Corticomedial Nuclear Complex,A08.186.211.180.090.875
+NS.Central Nervous System.Brain.Limbic System.Amygdala.Corticomedial Nuclear Complex.Periamygdaloid Cortex,A08.186.211.180.090.875.500
+NS.Central Nervous System.Brain.Limbic System.Epithalamus,A08.186.211.180.200
+NS.Central Nervous System.Brain.Limbic System.Epithalamus.Habenula,A08.186.211.180.200.360
+NS.Central Nervous System.Brain.Limbic System.Epithalamus.Pineal Gland,A08.186.211.180.200.680
+NS.Central Nervous System.Brain.Limbic System.Hippocampus,A08.186.211.180.405
+"NS.Central Nervous System.Brain.Limbic System.Hippocampus.CA1 Region, Hippocampal",A08.186.211.180.405.099
+"NS.Central Nervous System.Brain.Limbic System.Hippocampus.CA2 Region, Hippocampal",A08.186.211.180.405.149
+"NS.Central Nervous System.Brain.Limbic System.Hippocampus.CA3 Region, Hippocampal",A08.186.211.180.405.174
+NS.Central Nervous System.Brain.Limbic System.Hippocampus.Dentate Gyrus,A08.186.211.180.405.200
+"NS.Central Nervous System.Brain.Limbic System.Hippocampus.Dentate Gyrus.Mossy Fibers, Hippocampal",A08.186.211.180.405.200.500
+"NS.Central Nervous System.Brain.Limbic System.Hippocampus.Fornix, Brain",A08.186.211.180.405.600
+NS.Central Nervous System.Brain.Limbic System.Hypothalamus,A08.186.211.180.497
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamic Area, Lateral",A08.186.211.180.497.300
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior",A08.186.211.180.497.342
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Anterior Hypothalamic Nucleus",A08.186.211.180.497.342.063
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Organum Vasculosum",A08.186.211.180.497.342.231
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Paraventricular Hypothalamic Nucleus",A08.186.211.180.497.342.400
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Preoptic Area",A08.186.211.180.497.342.450
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Suprachiasmatic Nucleus",A08.186.211.180.497.342.625
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Suprachiasmatic Nucleus.Suprachiasmatic Nucleus Neurons",A08.186.211.180.497.342.625.500
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Anterior.Supraoptic Nucleus",A08.186.211.180.497.342.650
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle",A08.186.211.180.497.352
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Arcuate Nucleus of Hypothalamus",A08.186.211.180.497.352.081
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Dorsomedial Hypothalamic Nucleus",A08.186.211.180.497.352.270
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System",A08.186.211.180.497.352.435
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Median Eminence",A08.186.211.180.497.352.435.249
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland",A08.186.211.180.497.352.435.500
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior",A08.186.211.180.497.352.435.500.500
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Corticotrophs",A08.186.211.180.497.352.435.500.500.500
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Gonadotrophs",A08.186.211.180.497.352.435.500.500.750
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Lactotrophs",A08.186.211.180.497.352.435.500.500.812
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Somatotrophs",A08.186.211.180.497.352.435.500.500.937
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Thyrotrophs",A08.186.211.180.497.352.435.500.500.968
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate",A08.186.211.180.497.352.435.500.750
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate.Melanotrophs",A08.186.211.180.497.352.435.500.750.500
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Posterior",A08.186.211.180.497.352.435.500.875
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Tuber Cinereum",A08.186.211.180.497.352.870
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Middle.Ventromedial Hypothalamic Nucleus",A08.186.211.180.497.352.953
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Posterior",A08.186.211.180.497.362
+"NS.Central Nervous System.Brain.Limbic System.Hypothalamus.Hypothalamus, Posterior.Mammillary Bodies",A08.186.211.180.497.362.500
+NS.Central Nervous System.Brain.Limbic System.Limbic Lobe,A08.186.211.180.590
+NS.Central Nervous System.Brain.Limbic System.Limbic Lobe.Gyrus Cinguli,A08.186.211.180.590.500
+NS.Central Nervous System.Brain.Limbic System.Limbic Lobe.Parahippocampal Gyrus,A08.186.211.180.590.750
+NS.Central Nervous System.Brain.Limbic System.Limbic Lobe.Parahippocampal Gyrus.Entorhinal Cortex,A08.186.211.180.590.750.225
+NS.Central Nervous System.Brain.Limbic System.Limbic Lobe.Parahippocampal Gyrus.Periamygdaloid Cortex,A08.186.211.180.590.750.612
+NS.Central Nervous System.Brain.Limbic System.Olfactory Pathways,A08.186.211.180.699
+NS.Central Nervous System.Brain.Limbic System.Parahippocampal Gyrus,A08.186.211.180.710
+NS.Central Nervous System.Brain.Limbic System.Parahippocampal Gyrus.Entorhinal Cortex,A08.186.211.180.710.225
+NS.Central Nervous System.Brain.Limbic System.Parahippocampal Gyrus.Periamygdaloid Cortex,A08.186.211.180.710.612
+NS.Central Nervous System.Brain.Limbic System.Perforant Pathway,A08.186.211.180.730
+NS.Central Nervous System.Brain.Limbic System.Septum of Brain,A08.186.211.180.750
+NS.Central Nervous System.Brain.Limbic System.Septum of Brain.Septal Nuclei,A08.186.211.180.750.800
+NS.Central Nervous System.Brain.Limbic System.Septum of Brain.Septum Pellucidum,A08.186.211.180.750.900
+NS.Central Nervous System.Brain.Limbic System.Substantia Innominata,A08.186.211.180.820
+NS.Central Nervous System.Brain.Prosencephalon,A08.186.211.200
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon,A08.186.211.200.317
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Epithalamus,A08.186.211.200.317.200
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Epithalamus.Habenula,A08.186.211.200.317.200.360
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Epithalamus.Pineal Gland,A08.186.211.200.317.200.620
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus,A08.186.211.200.317.357
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamic Area, Lateral",A08.186.211.200.317.357.300
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior",A08.186.211.200.317.357.342
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Anterior Hypothalamic Nucleus",A08.186.211.200.317.357.342.063
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Organum Vasculosum",A08.186.211.200.317.357.342.315
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Paraventricular Hypothalamic Nucleus",A08.186.211.200.317.357.342.400
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Preoptic Area",A08.186.211.200.317.357.342.450
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Suprachiasmatic Nucleus",A08.186.211.200.317.357.342.625
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Suprachiasmatic Nucleus.Suprachiasmatic Nucleus Neurons",A08.186.211.200.317.357.342.625.500
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Anterior.Supraoptic Nucleus",A08.186.211.200.317.357.342.650
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle",A08.186.211.200.317.357.352
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Arcuate Nucleus of Hypothalamus",A08.186.211.200.317.357.352.081
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Dorsomedial Hypothalamic Nucleus",A08.186.211.200.317.357.352.270
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System",A08.186.211.200.317.357.352.435
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Median Eminence",A08.186.211.200.317.357.352.435.249
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland",A08.186.211.200.317.357.352.435.500
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior",A08.186.211.200.317.357.352.435.500.500
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Corticotrophs",A08.186.211.200.317.357.352.435.500.500.500
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Gonadotrophs",A08.186.211.200.317.357.352.435.500.500.750
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Lactotrophs",A08.186.211.200.317.357.352.435.500.500.812
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Somatotrophs",A08.186.211.200.317.357.352.435.500.500.937
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Thyrotrophs",A08.186.211.200.317.357.352.435.500.500.968
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate",A08.186.211.200.317.357.352.435.500.750
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate.Melanotrophs",A08.186.211.200.317.357.352.435.500.750.500
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Posterior",A08.186.211.200.317.357.352.435.500.875
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Tuber Cinereum",A08.186.211.200.317.357.352.870
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Middle.Ventromedial Hypothalamic Nucleus",A08.186.211.200.317.357.352.953
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Posterior",A08.186.211.200.317.357.362
+"NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Hypothalamus.Hypothalamus, Posterior.Mammillary Bodies",A08.186.211.200.317.357.362.500
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Optic Chiasm,A08.186.211.200.317.578
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Optic Tract,A08.186.211.200.317.689
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Subthalamus,A08.186.211.200.317.800
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Subthalamus.Entopeduncular Nucleus,A08.186.211.200.317.800.240
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Subthalamus.Subthalamic Nucleus,A08.186.211.200.317.800.800
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Subthalamus.Zona Incerta,A08.186.211.200.317.800.900
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus,A08.186.211.200.317.826
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei,A08.186.211.200.317.826.701
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Anterior Thalamic Nuclei,A08.186.211.200.317.826.701.080
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Geniculate Bodies,A08.186.211.200.317.826.701.444
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Intralaminar Thalamic Nuclei,A08.186.211.200.317.826.701.460
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Lateral Thalamic Nuclei,A08.186.211.200.317.826.701.485
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Lateral Thalamic Nuclei.Pulvinar,A08.186.211.200.317.826.701.485.600
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Mediodorsal Thalamic Nucleus,A08.186.211.200.317.826.701.490
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Midline Thalamic Nuclei,A08.186.211.200.317.826.701.500
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Posterior Thalamic Nuclei,A08.186.211.200.317.826.701.700
+NS.Central Nervous System.Brain.Prosencephalon.Diencephalon.Thalamus.Thalamic Nuclei.Ventral Thalamic Nuclei,A08.186.211.200.317.826.701.900
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon,A08.186.211.200.885
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum,A08.186.211.200.885.287
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia,A08.186.211.200.885.287.249
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Amygdala,A08.186.211.200.885.287.249.152
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Amygdala.Basolateral Nuclear Complex,A08.186.211.200.885.287.249.152.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Amygdala.Central Amygdaloid Nucleus,A08.186.211.200.885.287.249.152.750
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Amygdala.Corticomedial Nuclear Complex,A08.186.211.200.885.287.249.152.875
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Amygdala.Corticomedial Nuclear Complex.Periamygdaloid Cortex,A08.186.211.200.885.287.249.152.875.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Claustrum,A08.186.211.200.885.287.249.320
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum,A08.186.211.200.885.287.249.487
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Globus Pallidus,A08.186.211.200.885.287.249.487.397
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Neostriatum,A08.186.211.200.885.287.249.487.550
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Neostriatum.Caudate Nucleus,A08.186.211.200.885.287.249.487.550.184
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Neostriatum.High Vocal Center,A08.186.211.200.885.287.249.487.550.484
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Neostriatum.Putamen,A08.186.211.200.885.287.249.487.550.784
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Ventral Striatum,A08.186.211.200.885.287.249.487.775
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Ventral Striatum.Nucleus Accumbens,A08.186.211.200.885.287.249.487.775.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Ventral Striatum.Olfactory Tubercle,A08.186.211.200.885.287.249.487.775.750
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Corpus Striatum.Ventral Striatum.Olfactory Tubercle.Islands of Calleja,A08.186.211.200.885.287.249.487.775.750.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Substantia Innominata,A08.186.211.200.885.287.249.880
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Basal Ganglia.Substantia Innominata.Basal Nucleus of Meynert,A08.186.211.200.885.287.249.880.100
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex,A08.186.211.200.885.287.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Frontal Lobe,A08.186.211.200.885.287.500.270
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Frontal Lobe.Motor Cortex,A08.186.211.200.885.287.500.270.548
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Frontal Lobe.Prefrontal Cortex,A08.186.211.200.885.287.500.270.700
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Frontal Lobe.Prefrontal Cortex.Broca Area,A08.186.211.200.885.287.500.270.700.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Frontal Lobe.Uncinate Fasciculus,A08.186.211.200.885.287.500.270.850
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus,A08.186.211.200.885.287.500.345
+"NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.CA1 Region, Hippocampal",A08.186.211.200.885.287.500.345.099
+"NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.CA2 Region, Hippocampal",A08.186.211.200.885.287.500.345.149
+"NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.CA3 Region, Hippocampal",A08.186.211.200.885.287.500.345.174
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.Dentate Gyrus,A08.186.211.200.885.287.500.345.200
+"NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.Dentate Gyrus.Mossy Fibers, Hippocampal",A08.186.211.200.885.287.500.345.200.500
+"NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Hippocampus.Fornix, Brain",A08.186.211.200.885.287.500.345.600
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Limbic Lobe,A08.186.211.200.885.287.500.382
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Limbic Lobe.Gyrus Cinguli,A08.186.211.200.885.287.500.382.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Limbic Lobe.Parahippocampal Gyrus,A08.186.211.200.885.287.500.382.750
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Limbic Lobe.Parahippocampal Gyrus.Entorhinal Cortex,A08.186.211.200.885.287.500.382.750.225
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Limbic Lobe.Parahippocampal Gyrus.Periamygdaloid Cortex,A08.186.211.200.885.287.500.382.750.612
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Neocortex,A08.186.211.200.885.287.500.420
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Occipital Lobe,A08.186.211.200.885.287.500.571
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Occipital Lobe.Visual Cortex,A08.186.211.200.885.287.500.571.735
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex,A08.186.211.200.885.287.500.620
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Basal Forebrain,A08.186.211.200.885.287.500.620.374
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Basal Forebrain.Organum Vasculosum,A08.186.211.200.885.287.500.620.374.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Entorhinal Cortex,A08.186.211.200.885.287.500.620.562
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Olfactory Tubercle,A08.186.211.200.885.287.500.620.656
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Olfactory Tubercle.Islands of Calleja,A08.186.211.200.885.287.500.620.656.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Olfactory Cortex.Piriform Cortex,A08.186.211.200.885.287.500.620.750
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Parietal Lobe,A08.186.211.200.885.287.500.670
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Parietal Lobe.Somatosensory Cortex,A08.186.211.200.885.287.500.670.675
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Parietal Lobe.Wernicke Area,A08.186.211.200.885.287.500.670.837
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex,A08.186.211.200.885.287.500.814
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Auditory Cortex,A08.186.211.200.885.287.500.814.249
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Motor Cortex,A08.186.211.200.885.287.500.814.624
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Olfactory Cortex,A08.186.211.200.885.287.500.814.695
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Olfactory Cortex.Basal Forebrain,A08.186.211.200.885.287.500.814.695.249
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Olfactory Cortex.Entorhinal Cortex,A08.186.211.200.885.287.500.814.695.374
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Olfactory Cortex.Olfactory Tubercle,A08.186.211.200.885.287.500.814.695.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Olfactory Cortex.Olfactory Tubercle.Islands of Calleja,A08.186.211.200.885.287.500.814.695.500.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Somatosensory Cortex,A08.186.211.200.885.287.500.814.906
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Sensorimotor Cortex.Visual Cortex,A08.186.211.200.885.287.500.814.953
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Temporal Lobe,A08.186.211.200.885.287.500.863
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Temporal Lobe.Auditory Cortex,A08.186.211.200.885.287.500.863.297
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Temporal Lobe.Perirhinal Cortex,A08.186.211.200.885.287.500.863.574
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Temporal Lobe.Uncinate Fasciculus,A08.186.211.200.885.287.500.863.712
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Cerebral Cortex.Temporal Lobe.Wernicke Area,A08.186.211.200.885.287.500.863.850
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex,A08.186.211.200.885.287.750
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex.Basal Forebrain,A08.186.211.200.885.287.750.374
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex.Entorhinal Cortex,A08.186.211.200.885.287.750.562
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex.Olfactory Tubercle,A08.186.211.200.885.287.750.656
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex.Olfactory Tubercle.Islands of Calleja,A08.186.211.200.885.287.750.656.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Cerebrum.Olfactory Cortex.Piriform Cortex,A08.186.211.200.885.287.750.750
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Diagonal Band of Broca,A08.186.211.200.885.380
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.External Capsule,A08.186.211.200.885.382
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Internal Capsule,A08.186.211.200.885.385
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Olfactory Bulb,A08.186.211.200.885.388
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Septum of Brain,A08.186.211.200.885.750
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Septum of Brain.Septal Nuclei,A08.186.211.200.885.750.800
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Septum of Brain.Septum Pellucidum,A08.186.211.200.885.750.814
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Telencephalic Commissures,A08.186.211.200.885.800
+"NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Telencephalic Commissures.Anterior Commissure, Brain",A08.186.211.200.885.800.500
+NS.Central Nervous System.Brain.Prosencephalon.Telencephalon.Telencephalic Commissures.Corpus Callosum,A08.186.211.200.885.800.750
+NS.Central Nervous System.Brain.White Matter,A08.186.211.204
+NS.Central Nervous System.Meninges,A08.186.566
+NS.Central Nervous System.Meninges.Arachnoid,A08.186.566.166
+NS.Central Nervous System.Meninges.Arachnoid.Subarachnoid Space,A08.186.566.166.686
+NS.Central Nervous System.Meninges.Arachnoid.Subarachnoid Space.Cisterna Magna,A08.186.566.166.686.351
+NS.Central Nervous System.Meninges.Dura Mater,A08.186.566.395
+NS.Central Nervous System.Meninges.Dura Mater.Subdural Space,A08.186.566.395.687
+NS.Central Nervous System.Meninges.Pia Mater,A08.186.566.731
+NS.Central Nervous System.Spinal Cord,A08.186.854
+NS.Central Nervous System.Spinal Cord.Cervical Cord,A08.186.854.126
+NS.Central Nervous System.Spinal Cord.Extrapyramidal Tracts,A08.186.854.253
+NS.Central Nervous System.Spinal Cord.Pyramidal Tracts,A08.186.854.300
+NS.Central Nervous System.Spinal Cord.Gray Matter,A08.186.854.348
+NS.Central Nervous System.Spinal Cord.Spinal Cord Lateral Horn,A08.186.854.443
+NS.Central Nervous System.Spinal Cord.Spinal Cord Dorsal Horn,A08.186.854.697
+NS.Central Nervous System.Spinal Cord.Spinal Cord Dorsal Horn.Posterior Horn Cells,A08.186.854.697.500
+NS.Central Nervous System.Spinal Cord.Spinal Cord Dorsal Horn.Posterior Horn Cells.Substantia Gelatinosa,A08.186.854.697.500.500
+NS.Central Nervous System.Spinal Cord.Spinal Cord Ventral Horn,A08.186.854.729
+NS.Central Nervous System.Spinal Cord.Spinal Cord Ventral Horn.Anterior Horn Cells,A08.186.854.729.500
+NS.Central Nervous System.Spinal Cord.Spinothalamic Tracts,A08.186.854.761
+NS.Central Nervous System.Spinal Cord.White Matter,A08.186.854.880
+NS.Ganglia,A08.340
+"NS.Ganglia.Ganglia, Autonomic",A08.340.315
+"NS.Ganglia.Ganglia, Autonomic.Ganglia, Parasympathetic",A08.340.315.300
+"NS.Ganglia.Ganglia, Autonomic.Ganglia, Sympathetic",A08.340.315.350
+"NS.Ganglia.Ganglia, Autonomic.Ganglia, Sympathetic.Stellate Ganglion",A08.340.315.350.800
+"NS.Ganglia.Ganglia, Autonomic.Ganglia, Sympathetic.Superior Cervical Ganglion",A08.340.315.350.850
+"NS.Ganglia.Ganglia, Invertebrate",A08.340.352
+"NS.Ganglia.Ganglia, Sensory",A08.340.390
+"NS.Ganglia.Ganglia, Sensory.Ganglia, Spinal",A08.340.390.340
+"NS.Ganglia.Ganglia, Sensory.Geniculate Ganglion",A08.340.390.380
+"NS.Ganglia.Ganglia, Sensory.Nodose Ganglion",A08.340.390.550
+"NS.Ganglia.Ganglia, Sensory.Spiral Ganglion",A08.340.390.800
+"NS.Ganglia.Ganglia, Sensory.Trigeminal Ganglion",A08.340.390.850
+"NS.Ganglia.Satellite Cells, Perineuronal",A08.340.685
+NS.Nerve Net,A08.511
+NS.Nerve Net.Central Pattern Generators,A08.511.500
+NS.Neural Pathways,A08.612
+NS.Neural Pathways.Afferent Pathways,A08.612.220
+NS.Neural Pathways.Afferent Pathways.Auditory Pathways,A08.612.220.110
+NS.Neural Pathways.Afferent Pathways.Olfactory Pathways,A08.612.220.640
+NS.Neural Pathways.Afferent Pathways.Spinocerebellar Tracts,A08.612.220.725
+NS.Neural Pathways.Afferent Pathways.Spinothalamic Tracts,A08.612.220.735
+NS.Neural Pathways.Afferent Pathways.Visceral Afferents,A08.612.220.830
+NS.Neural Pathways.Afferent Pathways.Visual Pathways,A08.612.220.860
+NS.Neural Pathways.Default Mode Network,A08.612.300
+NS.Neural Pathways.Efferent Pathways,A08.612.380
+NS.Neural Pathways.Efferent Pathways.Extrapyramidal Tracts,A08.612.380.239
+NS.Neural Pathways.Efferent Pathways.Pyramidal Tracts,A08.612.380.730
+NS.Neural Pathways.Internal Capsule,A08.612.435
+NS.Neural Pathways.Medial Forebrain Bundle,A08.612.492
+NS.Neural Pathways.Perforant Pathway,A08.612.600
+NS.Neuroglia,A08.637
+NS.Neuroglia.Astrocytes,A08.637.200
+NS.Neuroglia.Ependymoglial Cells,A08.637.300
+NS.Neuroglia.Microglia,A08.637.400
+NS.Neuroglia.Neuropil,A08.637.500
+NS.Neuroglia.Neuropil.Neuropil Threads,A08.637.500.550
+NS.Neuroglia.Oligodendrocyte Precursor Cells,A08.637.550
+NS.Neuroglia.Oligodendroglia,A08.637.600
+NS.Neuroglia.Oligodendroglia.Myelin Sheath,A08.637.600.500
+"NS.Neuroglia.Satellite Cells, Perineuronal",A08.637.685
+NS.Neuroglia.Schwann Cells,A08.637.800
+NS.Neuroglia.Schwann Cells.Myelin Sheath,A08.637.800.500
+NS.Neuroglia.Schwann Cells.Myelin Sheath.Neurilemma,A08.637.800.500.550
+NS.Neuroglia.Schwann Cells.Myelin Sheath.Ranvier's Nodes,A08.637.800.500.700
+NS.Neurons,A08.675
+NS.Neurons.Adrenergic Neurons,A08.675.100
+NS.Neurons.Adrenergic Neurons.Adrenergic Fibers,A08.675.100.500
+NS.Neurons.Cholinergic Neurons,A08.675.127
+NS.Neurons.Cholinergic Neurons.Cholinergic Fibers,A08.675.127.500
+"NS.Neurons.Cholinergic Neurons.Cholinergic Fibers.Autonomic Fibers, Preganglionic",A08.675.127.500.060
+"NS.Neurons.Cholinergic Neurons.Cholinergic Fibers.Parasympathetic Fibers, Postganglionic",A08.675.127.500.700
+NS.Neurons.Dendrites,A08.675.256
+NS.Neurons.Dendrites.Dendritic Spines,A08.675.256.200
+NS.Neurons.Dendrites.Neurites,A08.675.256.500
+NS.Neurons.Dopaminergic Neurons,A08.675.278
+NS.Neurons.GABAergic Neurons,A08.675.289
+NS.Neurons.Grid Cells,A08.675.324
+NS.Neurons.Interneurons,A08.675.358
+NS.Neurons.Interneurons.Amacrine Cells,A08.675.358.050
+NS.Neurons.Interneurons.Cerebellar Golgi Cells,A08.675.358.200
+NS.Neurons.Interneurons.Commissural Interneurons,A08.675.358.350
+NS.Neurons.Interneurons.Renshaw Cells,A08.675.358.650
+NS.Neurons.Interneurons.Retinal Bipolar Cells,A08.675.358.700
+NS.Neurons.Mirror Neurons,A08.675.500
+NS.Neurons.Nerve Fibers,A08.675.542
+NS.Neurons.Nerve Fibers.Adrenergic Fibers,A08.675.542.075
+"NS.Neurons.Nerve Fibers.Adrenergic Fibers.Sympathetic Fibers, Postganglionic",A08.675.542.075.800
+"NS.Neurons.Nerve Fibers.Autonomic Fibers, Postganglionic",A08.675.542.100
+"NS.Neurons.Nerve Fibers.Autonomic Fibers, Postganglionic.Parasympathetic Fibers, Postganglionic",A08.675.542.100.700
+"NS.Neurons.Nerve Fibers.Autonomic Fibers, Postganglionic.Sympathetic Fibers, Postganglionic",A08.675.542.100.800
+NS.Neurons.Nerve Fibers.Axons,A08.675.542.145
+NS.Neurons.Nerve Fibers.Axons.Axon Initial Segment,A08.675.542.145.250
+NS.Neurons.Nerve Fibers.Axons.Neurites,A08.675.542.145.500
+NS.Neurons.Nerve Fibers.Axons.Presynaptic Terminals,A08.675.542.145.750
+"NS.Neurons.Nerve Fibers.Axons.Presynaptic Terminals.Mossy Fibers, Hippocampal",A08.675.542.145.750.500
+NS.Neurons.Nerve Fibers.Cholinergic Fibers,A08.675.542.234
+"NS.Neurons.Nerve Fibers.Cholinergic Fibers.Autonomic Fibers, Preganglionic",A08.675.542.234.060
+"NS.Neurons.Nerve Fibers.Cholinergic Fibers.Parasympathetic Fibers, Postganglionic",A08.675.542.234.700
+"NS.Neurons.Nerve Fibers.Nerve Fibers, Myelinated",A08.675.542.512
+"NS.Neurons.Nerve Fibers.Nerve Fibers, Myelinated.Myelin Sheath",A08.675.542.512.560
+"NS.Neurons.Nerve Fibers.Nerve Fibers, Myelinated.Myelin Sheath.Neurilemma",A08.675.542.512.560.550
+"NS.Neurons.Nerve Fibers.Nerve Fibers, Myelinated.Myelin Sheath.Ranvier's Nodes",A08.675.542.512.560.700
+"NS.Neurons.Nerve Fibers.Nerve Fibers, Unmyelinated",A08.675.542.756
+NS.Neurons.Neural Analyzers,A08.675.575
+NS.Neurons.Neurofibrils,A08.675.609
+NS.Neurons.Neurofibrils.Neurofibrillary Tangles,A08.675.609.520
+"NS.Neurons.Neurons, Afferent",A08.675.650
+"NS.Neurons.Neurons, Afferent.Hair Cells, Auditory",A08.675.650.250
+"NS.Neurons.Neurons, Afferent.Hair Cells, Auditory.Hair Cells, Auditory, Inner",A08.675.650.250.250
+"NS.Neurons.Neurons, Afferent.Hair Cells, Auditory.Hair Cells, Auditory, Outer",A08.675.650.250.315
+"NS.Neurons.Neurons, Afferent.Hair Cells, Vestibular",A08.675.650.395
+"NS.Neurons.Neurons, Afferent.Posterior Horn Cells",A08.675.650.675
+"NS.Neurons.Neurons, Afferent.Posterior Horn Cells.Substantia Gelatinosa",A08.675.650.675.800
+"NS.Neurons.Neurons, Afferent.Retinal Neurons",A08.675.650.850
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Amacrine Cells",A08.675.650.850.500
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells",A08.675.650.850.625
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Invertebrate",A08.675.650.850.625.660
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate",A08.675.650.850.625.670
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Photoreceptor Connecting Cilium",A08.675.650.850.625.670.049
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Cone Photoreceptor Cells",A08.675.650.850.625.670.100
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Inner Segment",A08.675.650.850.625.670.237
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment",A08.675.650.850.625.670.375
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment.Rod Cell Outer Segment",A08.675.650.850.625.670.375.500
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells",A08.675.650.850.625.670.650
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells.Rod Cell Outer Segment",A08.675.650.850.625.670.650.650
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Retinal Bipolar Cells",A08.675.650.850.750
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Retinal Ganglion Cells",A08.675.650.850.875
+"NS.Neurons.Neurons, Afferent.Retinal Neurons.Retinal Horizontal Cells",A08.675.650.850.937
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells",A08.675.650.915
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells",A08.675.650.915.500
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Neuroepithelial Cells",A08.675.650.915.500.530
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Neuroepithelial Cells.Neuroepithelial Bodies",A08.675.650.915.500.530.550
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Olfactory Receptor Neurons",A08.675.650.915.500.540
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin",A08.675.650.915.500.600
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Aortic Bodies",A08.675.650.915.500.600.050
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Carotid Body",A08.675.650.915.500.600.150
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Glomus Jugulare",A08.675.650.915.500.600.350
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Glomus Tympanicum",A08.675.650.915.500.600.360
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Chemoreceptor Cells.Taste Buds",A08.675.650.915.500.800
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors",A08.675.650.915.750
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Golgi-Mazzoni Corpuscles",A08.675.650.915.750.300
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Merkel Cells",A08.675.650.915.750.425
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Muscle Spindles",A08.675.650.915.750.500
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells",A08.675.650.915.750.600
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory",A08.675.650.915.750.600.350
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory.Hair Cells, Auditory, Inner",A08.675.650.915.750.600.350.350
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory.Hair Cells, Auditory, Outer",A08.675.650.915.750.600.350.365
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Vestibular",A08.675.650.915.750.600.675
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Pacinian Corpuscles",A08.675.650.915.750.700
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Pressoreceptors",A08.675.650.915.750.750
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Mechanoreceptors.Pulmonary Stretch Receptors",A08.675.650.915.750.780
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Nociceptors",A08.675.650.915.875
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells",A08.675.650.915.937
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Invertebrate",A08.675.650.915.937.650
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate",A08.675.650.915.937.670
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Photoreceptor Connecting Cilium",A08.675.650.915.937.670.049
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Cone Photoreceptor Cells",A08.675.650.915.937.670.100
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Inner Segment",A08.675.650.915.937.670.237
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment",A08.675.650.915.937.670.375
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment.Rod Cell Outer Segment",A08.675.650.915.937.670.375.500
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells",A08.675.650.915.937.670.650
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells.Rod Cell Outer Segment",A08.675.650.915.937.670.650.650
+"NS.Neurons.Neurons, Afferent.Sensory Receptor Cells.Thermoreceptors",A08.675.650.915.968
+"NS.Neurons.Neurons, Efferent",A08.675.655
+"NS.Neurons.Neurons, Efferent.Motor Neurons",A08.675.655.500
+"NS.Neurons.Neurons, Efferent.Motor Neurons.Anterior Horn Cells",A08.675.655.500.050
+"NS.Neurons.Neurons, Efferent.Motor Neurons.Motor Neurons, Gamma",A08.675.655.500.525
+NS.Neurons.Neuropil,A08.675.703
+NS.Neurons.Neuropil.Neuropil Threads,A08.675.703.550
+NS.Neurons.Nissl Bodies,A08.675.712
+NS.Neurons.Nitrergic Neurons,A08.675.748
+NS.Neurons.Purkinje Cells,A08.675.784
+NS.Neurons.Pyramidal Cells,A08.675.790
+NS.Neurons.Pyramidal Cells.Place Cells,A08.675.790.500
+NS.Neurons.Serotonergic Neurons,A08.675.895
+NS.Neurons.Suprachiasmatic Nucleus Neurons,A08.675.947
+NS.Neurosecretory Systems,A08.713
+NS.Neurosecretory Systems.Circumventricular Organs,A08.713.049
+NS.Neurosecretory Systems.Circumventricular Organs.Area Postrema,A08.713.049.500
+NS.Neurosecretory Systems.Circumventricular Organs.Median Eminence,A08.713.049.750
+"NS.Neurosecretory Systems.Circumventricular Organs.Pituitary Gland, Posterior",A08.713.049.875
+NS.Neurosecretory Systems.Circumventricular Organs.Subcommissural Organ,A08.713.049.937
+NS.Neurosecretory Systems.Circumventricular Organs.Subfornical Organ,A08.713.049.968
+NS.Neurosecretory Systems.Corpora Allata,A08.713.100
+NS.Neurosecretory Systems.Glomus Tympanicum,A08.713.228
+NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System,A08.713.357
+NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Median Eminence,A08.713.357.500
+NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland,A08.713.357.750
+"NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior",A08.713.357.750.500
+"NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Corticotrophs",A08.713.357.750.500.500
+"NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Gonadotrophs",A08.713.357.750.500.750
+"NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Lactotrophs",A08.713.357.750.500.812
+"NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Somatotrophs",A08.713.357.750.500.937
+"NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Thyrotrophs",A08.713.357.750.500.968
+"NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate",A08.713.357.750.750
+"NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate.Melanotrophs",A08.713.357.750.750.500
+"NS.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Posterior",A08.713.357.750.875
+NS.Neurosecretory Systems.Pineal Gland,A08.713.733
+NS.Neurosecretory Systems.Sympathoadrenal System,A08.713.866
+NS.Peripheral Nervous System,A08.800
+NS.Peripheral Nervous System.Autonomic Nervous System,A08.800.050
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways,A08.800.050.050
+"NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Autonomic Fibers, Postganglionic",A08.800.050.050.050
+"NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Autonomic Fibers, Postganglionic.Parasympathetic Fibers, Postganglionic",A08.800.050.050.050.700
+"NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Autonomic Fibers, Postganglionic.Sympathetic Fibers, Postganglionic",A08.800.050.050.050.800
+"NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Autonomic Fibers, Preganglionic",A08.800.050.050.060
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Celiac Plexus,A08.800.050.050.150
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Facial Nerve,A08.800.050.050.275
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Glossopharyngeal Nerve,A08.800.050.050.337
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Hypogastric Plexus,A08.800.050.050.400
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Myenteric Plexus,A08.800.050.050.500
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Oculomotor Nerve,A08.800.050.050.650
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Splanchnic Nerves,A08.800.050.050.800
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Submucous Plexus,A08.800.050.050.850
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Vagus Nerve,A08.800.050.050.925
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Vagus Nerve.Laryngeal Nerves,A08.800.050.050.925.450
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Vagus Nerve.Laryngeal Nerves.Recurrent Laryngeal Nerve,A08.800.050.050.925.450.700
+NS.Peripheral Nervous System.Autonomic Nervous System.Autonomic Pathways.Vagus Nerve.Nodose Ganglion,A08.800.050.050.925.550
+NS.Peripheral Nervous System.Autonomic Nervous System.Enteric Nervous System,A08.800.050.150
+NS.Peripheral Nervous System.Autonomic Nervous System.Enteric Nervous System.Myenteric Plexus,A08.800.050.150.500
+NS.Peripheral Nervous System.Autonomic Nervous System.Enteric Nervous System.Submucous Plexus,A08.800.050.150.750
+"NS.Peripheral Nervous System.Autonomic Nervous System.Ganglia, Autonomic",A08.800.050.300
+"NS.Peripheral Nervous System.Autonomic Nervous System.Ganglia, Autonomic.Ganglia, Parasympathetic",A08.800.050.300.250
+"NS.Peripheral Nervous System.Autonomic Nervous System.Ganglia, Autonomic.Ganglia, Sympathetic",A08.800.050.300.300
+"NS.Peripheral Nervous System.Autonomic Nervous System.Ganglia, Autonomic.Ganglia, Sympathetic.Stellate Ganglion",A08.800.050.300.300.800
+"NS.Peripheral Nervous System.Autonomic Nervous System.Ganglia, Autonomic.Ganglia, Sympathetic.Superior Cervical Ganglion",A08.800.050.300.300.850
+NS.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System,A08.800.050.600
+NS.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Facial Nerve,A08.800.050.600.149
+"NS.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Ganglia, Parasympathetic",A08.800.050.600.300
+NS.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Glossopharyngeal Nerve,A08.800.050.600.387
+NS.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Oculomotor Nerve,A08.800.050.600.475
+"NS.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Parasympathetic Fibers, Postganglionic",A08.800.050.600.650
+NS.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Vagus Nerve,A08.800.050.600.825
+NS.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Vagus Nerve.Laryngeal Nerves,A08.800.050.600.825.450
+NS.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Vagus Nerve.Laryngeal Nerves.Recurrent Laryngeal Nerve,A08.800.050.600.825.450.700
+NS.Peripheral Nervous System.Autonomic Nervous System.Parasympathetic Nervous System.Vagus Nerve.Nodose Ganglion,A08.800.050.600.825.550
+NS.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System,A08.800.050.800
+"NS.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Ganglia, Sympathetic",A08.800.050.800.300
+"NS.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Ganglia, Sympathetic.Stellate Ganglion",A08.800.050.800.300.800
+"NS.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Ganglia, Sympathetic.Superior Cervical Ganglion",A08.800.050.800.300.850
+NS.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Splanchnic Nerves,A08.800.050.800.800
+NS.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Sympathoadrenal System,A08.800.050.800.850
+NS.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Vasomotor System,A08.800.050.800.900
+NS.Peripheral Nervous System.Autonomic Nervous System.Sympathetic Nervous System.Vasomotor System.Pressoreceptors,A08.800.050.800.900.700
+"NS.Peripheral Nervous System.Ganglia, Sensory",A08.800.350
+"NS.Peripheral Nervous System.Ganglia, Sensory.Ganglia, Spinal",A08.800.350.340
+"NS.Peripheral Nervous System.Ganglia, Sensory.Geniculate Ganglion",A08.800.350.380
+"NS.Peripheral Nervous System.Ganglia, Sensory.Nodose Ganglion",A08.800.350.550
+"NS.Peripheral Nervous System.Ganglia, Sensory.Spiral Ganglion",A08.800.350.800
+"NS.Peripheral Nervous System.Ganglia, Sensory.Trigeminal Ganglion",A08.800.350.850
+NS.Peripheral Nervous System.Nerve Endings,A08.800.550
+NS.Peripheral Nervous System.Nerve Endings.Neuroeffector Junction,A08.800.550.550
+NS.Peripheral Nervous System.Nerve Endings.Neuroeffector Junction.Neuromuscular Junction,A08.800.550.550.550
+NS.Peripheral Nervous System.Nerve Endings.Neuroeffector Junction.Neuromuscular Junction.Motor Endplate,A08.800.550.550.550.500
+NS.Peripheral Nervous System.Peripheral Nerves,A08.800.800
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways,A08.800.800.060
+"NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Autonomic Fibers, Postganglionic",A08.800.800.060.050
+"NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Autonomic Fibers, Postganglionic.Parasympathetic Fibers, Postganglionic",A08.800.800.060.050.700
+"NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Autonomic Fibers, Postganglionic.Sympathetic Fibers, Postganglionic",A08.800.800.060.050.800
+"NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Autonomic Fibers, Preganglionic",A08.800.800.060.060
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Celiac Plexus,A08.800.800.060.150
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Facial Nerve,A08.800.800.060.275
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Glossopharyngeal Nerve,A08.800.800.060.337
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Hypogastric Plexus,A08.800.800.060.400
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Myenteric Plexus,A08.800.800.060.500
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Oculomotor Nerve,A08.800.800.060.650
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Splanchnic Nerves,A08.800.800.060.800
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Submucous Plexus,A08.800.800.060.840
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Vagus Nerve,A08.800.800.060.920
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Vagus Nerve.Laryngeal Nerves,A08.800.800.060.920.450
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Vagus Nerve.Laryngeal Nerves.Recurrent Laryngeal Nerve,A08.800.800.060.920.450.700
+NS.Peripheral Nervous System.Peripheral Nerves.Autonomic Pathways.Vagus Nerve.Nodose Ganglion,A08.800.800.060.920.550
+NS.Peripheral Nervous System.Peripheral Nerves.Blood-Nerve Barrier,A08.800.800.090
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves,A08.800.800.120
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Abducens Nerve,A08.800.800.120.030
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Accessory Nerve,A08.800.800.120.060
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Facial Nerve,A08.800.800.120.250
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Facial Nerve.Chorda Tympani Nerve,A08.800.800.120.250.120
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Facial Nerve.Geniculate Ganglion,A08.800.800.120.250.280
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Glossopharyngeal Nerve,A08.800.800.120.290
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Hypoglossal Nerve,A08.800.800.120.330
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Oculomotor Nerve,A08.800.800.120.600
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Olfactory Nerve,A08.800.800.120.640
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Optic Nerve,A08.800.800.120.680
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Optic Nerve.Optic Chiasm,A08.800.800.120.680.600
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Optic Nerve.Optic Disk,A08.800.800.120.680.660
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve,A08.800.800.120.760
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve.Mandibular Nerve,A08.800.800.120.760.500
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve.Mandibular Nerve.Lingual Nerve,A08.800.800.120.760.500.450
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve.Maxillary Nerve,A08.800.800.120.760.550
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve.Ophthalmic Nerve,A08.800.800.120.760.650
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trigeminal Nerve.Trigeminal Ganglion,A08.800.800.120.760.825
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Trochlear Nerve,A08.800.800.120.800
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vagus Nerve,A08.800.800.120.900
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vagus Nerve.Laryngeal Nerves,A08.800.800.120.900.450
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vagus Nerve.Laryngeal Nerves.Recurrent Laryngeal Nerve,A08.800.800.120.900.450.700
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vagus Nerve.Nodose Ganglion,A08.800.800.120.900.550
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vestibulocochlear Nerve,A08.800.800.120.910
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vestibulocochlear Nerve.Cochlear Nerve,A08.800.800.120.910.120
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vestibulocochlear Nerve.Cochlear Nerve.Spiral Ganglion,A08.800.800.120.910.120.800
+NS.Peripheral Nervous System.Peripheral Nerves.Cranial Nerves.Vestibulocochlear Nerve.Vestibular Nerve,A08.800.800.120.910.900
+NS.Peripheral Nervous System.Peripheral Nerves.Schwann Cells,A08.800.800.690
+NS.Peripheral Nervous System.Peripheral Nerves.Schwann Cells.Myelin Sheath,A08.800.800.690.500
+NS.Peripheral Nervous System.Peripheral Nerves.Schwann Cells.Myelin Sheath.Neurilemma,A08.800.800.690.500.550
+NS.Peripheral Nervous System.Peripheral Nerves.Schwann Cells.Myelin Sheath.Ranvier's Nodes,A08.800.800.690.500.700
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves,A08.800.800.720
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Brachial Plexus,A08.800.800.720.050
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Brachial Plexus.Median Nerve,A08.800.800.720.050.500
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Brachial Plexus.Musculocutaneous Nerve,A08.800.800.720.050.540
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Brachial Plexus.Radial Nerve,A08.800.800.720.050.700
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Brachial Plexus.Ulnar Nerve,A08.800.800.720.050.850
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Cervical Plexus,A08.800.800.720.150
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Cervical Plexus.Phrenic Nerve,A08.800.800.720.150.700
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus,A08.800.800.720.450
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Femoral Nerve,A08.800.800.720.450.250
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Obturator Nerve,A08.800.800.720.450.600
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Pudendal Nerve,A08.800.800.720.450.680
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Sciatic Nerve,A08.800.800.720.450.760
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Sciatic Nerve.Peroneal Nerve,A08.800.800.720.450.760.640
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Sciatic Nerve.Tibial Nerve,A08.800.800.720.450.760.820
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Lumbosacral Plexus.Sciatic Nerve.Tibial Nerve.Sural Nerve,A08.800.800.720.450.760.820.820
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Spinal Nerve Roots,A08.800.800.720.725
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Spinal Nerve Roots.Cauda Equina,A08.800.800.720.725.150
+"NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Spinal Nerve Roots.Ganglia, Spinal",A08.800.800.720.725.350
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Thoracic Nerves,A08.800.800.720.800
+NS.Peripheral Nervous System.Peripheral Nerves.Spinal Nerves.Thoracic Nerves.Intercostal Nerves,A08.800.800.720.800.350
+NS.Peripheral Nervous System.Sensory Receptor Cells,A08.800.950
+NS.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells,A08.800.950.500
+NS.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Neuroepithelial Cells,A08.800.950.500.530
+NS.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Neuroepithelial Cells.Neuroepithelial Bodies,A08.800.950.500.530.550
+NS.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Olfactory Receptor Neurons,A08.800.950.500.540
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin",A08.800.950.500.600
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Aortic Bodies",A08.800.950.500.600.050
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Carotid Body",A08.800.950.500.600.150
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Glomus Jugulare",A08.800.950.500.600.350
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Paraganglia, Nonchromaffin.Glomus Tympanicum",A08.800.950.500.600.360
+NS.Peripheral Nervous System.Sensory Receptor Cells.Chemoreceptor Cells.Taste Buds,A08.800.950.500.800
+NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors,A08.800.950.750
+NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Golgi-Mazzoni Corpuscles,A08.800.950.750.300
+NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Merkel Cells,A08.800.950.750.425
+NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Muscle Spindles,A08.800.950.750.500
+NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells,A08.800.950.750.600
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory",A08.800.950.750.600.350
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory.Hair Cells, Auditory, Inner",A08.800.950.750.600.350.350
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Auditory.Hair Cells, Auditory, Outer",A08.800.950.750.600.350.365
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Neuroepithelial Cells.Hair Cells, Vestibular",A08.800.950.750.600.675
+NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Pacinian Corpuscles,A08.800.950.750.700
+NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Pressoreceptors,A08.800.950.750.750
+NS.Peripheral Nervous System.Sensory Receptor Cells.Mechanoreceptors.Pulmonary Stretch Receptors,A08.800.950.750.780
+NS.Peripheral Nervous System.Sensory Receptor Cells.Nociceptors,A08.800.950.875
+NS.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells,A08.800.950.937
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Invertebrate",A08.800.950.937.650
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate",A08.800.950.937.670
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Photoreceptor Connecting Cilium",A08.800.950.937.670.049
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Cone Photoreceptor Cells",A08.800.950.937.670.100
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Inner Segment",A08.800.950.937.670.237
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment",A08.800.950.937.670.375
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Photoreceptor Cell Outer Segment.Rod Cell Outer Segment",A08.800.950.937.670.375.500
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells",A08.800.950.937.670.650
+"NS.Peripheral Nervous System.Sensory Receptor Cells.Photoreceptor Cells.Photoreceptor Cells, Vertebrate.Retinal Rod Photoreceptor Cells.Rod Cell Outer Segment",A08.800.950.937.670.650.650
+NS.Peripheral Nervous System.Sensory Receptor Cells.Thermoreceptors,A08.800.950.968
+NS.Synapses,A08.850
+NS.Synapses.Electrical Synapses,A08.850.180
+NS.Synapses.Neuroeffector Junction,A08.850.550
+NS.Synapses.Neuroeffector Junction.Neuromuscular Junction,A08.850.550.550
+NS.Synapses.Neuroeffector Junction.Neuromuscular Junction.Motor Endplate,A08.850.550.550.500
+NS.Synapses.Presynaptic Terminals,A08.850.700
+"NS.Synapses.Presynaptic Terminals.Mossy Fibers, Hippocampal",A08.850.700.500
+NS.Synapses.Synaptic Membranes,A08.850.800
+NS.Synapses.Synaptic Membranes.Post-Synaptic Density,A08.850.800.500
+NS.Synapses.Synaptic Vesicles,A08.850.840
