@@ -65,7 +65,7 @@ d3.csv("data/NS.csv", function(error, data) {
       .attr("transform", function(d) { return "translate(" + radialPoint(d.x, d.y) + ")"; });
 
   node.append("circle")
-      .attr("r", 4)
+      .attr("r", 3)
       .style("fill", function (d) { return '#1f77b4'; });
       
 
